@@ -15792,7 +15792,129 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "the-university-of-alabama",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "universite-de-bordeaux",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "ca-foscari-university-of-venice",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "uic-exclusive-the-university-of-hong-kong-faculty-of-arts",
+      "date": "2026-06-12",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "04/30",
+          "to": "03/31"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "universidad-carlos-iii-de-madrid",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "norwegian-school-of-economics-and-business-administration-nhh",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "university-of-groningen",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "erasmus-university-rotterdam-erasmus-school-of-economics",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "universite-sorbonne-nouvelle-paris-3",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "institut-d-etudes-politiques-de-paris",
+      "date": "2026-06-12",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "chuo-university",
+      "date": "2026-06-12",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_nomination_deadline",
+          "from": "UG: 3.30 \nG: 2.31",
+          "to": "03/30"
+        },
+        {
+          "field": "fall_application_deadline",
+          "from": "UG: 4.31 \nG: 3.30",
+          "to": "04/30"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "UG: 9.30 \nG: 8.31",
+          "to": "09/30"
+        },
+        {
+          "field": "spring_application_deadline",
+          "from": "UG: 10.31 \nG: 9.30",
+          "to": "10/31"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "the-hong-kong-polytechnic-university",
+      "date": "2026-06-12",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_nomination_deadline",
+          "from": "2026.03.26\n*2026.03.15 for School of Design",
+          "to": "03/15"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "2026.09.26\n*2026.09.15 for School of Design",
+          "to": "09/15"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-06-12T06:27:38.068036+00:00"
+  "generated_at": "2026-06-12T14:41:25.168522+00:00"
 }
