@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T14:41:25.168522Z",
+  "generated_at": "2026-06-12T23:06:53.403719Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -96,13 +96,13 @@
       "academic_calendar": "https://registrar.ua.edu/academiccalendar",
       "housing_info": "https://housing.sa.ua.edu/",
       "housing_guaranteed": "",
-      "recent_factsheet": "",
-      "additional_link": "",
+      "recent_factsheet": "https://drive.google.com/file/d/11SdMod3GDLmOTLR8vjD9N0e1h1Lo8gw2/view?usp=sharing",
+      "additional_link": "https://shc.sa.ua.edu/forms/immunization-form",
       "campus_map_url": "",
       "campus_lat": 30.68615,
       "campus_lng": -88.1745878,
       "scholarship": "",
-      "notes": "",
+      "notes": "Year-long students must maintain a minimum GPA of 2.0 at the end of the fall semester to continue to the spring.\nExchange students are required to live on campus. Once admitted to the exchange program, a housing application must be completed: https://housing.sa.ua.edu/incoming-students/apply\nImmunizations are required and must be completed before course registration: https://shc.sa.ua.edu/forms/immunization-form",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -348,7 +348,7 @@
       "campus_lat": 44.8369727,
       "campus_lng": -0.5780704,
       "scholarship": "",
-      "notes": "",
+      "notes": "Students should not choose classes from different colleges as it get more complex for the university to register students successfully.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -913,12 +913,12 @@
       "housing_info": "https://www.unive.it/pag/19768/",
       "housing_guaranteed": "",
       "recent_factsheet": "",
-      "additional_link": "",
+      "additional_link": "https://drive.google.com/file/d/1ez6uWynyx72aoSBWyt01fGY162lYyFzA/view?usp=sharing",
       "campus_map_url": "",
       "campus_lat": null,
       "campus_lng": null,
       "scholarship": "",
-      "notes": "",
+      "notes": "Buddy program: https://www.unive.it/pag/28622/\nFree Italian courses: https://www.unive.it/pag/9945/\nA variety of associations, societies, and sports opportunities (https://www.unive.it/pag/29784/) — radio, choir, theatre, and much more.\nMaps of student life in Venice: https://drive.google.com/file/d/1ez6uWynyx72aoSBWyt01fGY162lYyFzA/view?usp=sharing",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3274,7 +3274,7 @@
       "campus_lat": 54.7672268,
       "campus_lng": -1.5721956,
       "scholarship": "Y",
-      "notes": "",
+      "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3986,7 +3986,7 @@
       "campus_lat": 40.3150937,
       "campus_lng": -3.7248801,
       "scholarship": "",
-      "notes": "",
+      "notes": "UC3M welcomes a large number of exchange students and offers an extensive selection of courses taught in English.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4368,7 +4368,7 @@
       "campus_lat": null,
       "campus_lng": null,
       "scholarship": "",
-      "notes": "",
+      "notes": "Student housing is guaranteed for first-time exchange students through Sammen. Housing is not guaranteed to be on campus, but will be either on campus or within Bergen with good public transit connections.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4522,7 +4522,7 @@
       "campus_lat": 53.2194416,
       "campus_lng": 6.5629863,
       "scholarship": "",
-      "notes": "",
+      "notes": "The fall semester starts in September and ends at the end of January. The spring semester starts in February and finishes in mid-July.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5522,7 +5522,7 @@
       "campus_lat": null,
       "campus_lng": null,
       "scholarship": "",
-      "notes": "",
+      "notes": "A single semester is possible in either fall or spring; a full year can only start in fall.\nVirtual campus experience: https://www.eur.nl/en/education/study-rotterdam/virtual-experience\nCourses and registration: https://www.eur.nl/en/ese/exchange/visiting-students/during-your-exchange/courses-and-registration\nStudy in Rotterdam: https://www.eur.nl/en/education/study-rotterdam",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6810,7 +6810,7 @@
       "campus_lat": 48.8474698,
       "campus_lng": 2.3462348,
       "scholarship": "",
-      "notes": "",
+      "notes": "Spring program option: calendar-year students may start in the spring semester. However, the CROUS residence is closed during the summer break (July and August), so housing is provided for two separate terms with no possibility of staying during the summer.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6950,7 +6950,7 @@
       "campus_lat": 44.7949425,
       "campus_lng": -0.6173657,
       "scholarship": "Y",
-      "notes": "",
+      "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7241,7 +7241,7 @@
       "campus_lat": 48.8538978,
       "campus_lng": 2.3290212,
       "scholarship": "",
-      "notes": "",
+      "notes": "Sciences Po’s undergraduate college comprises seven campuses, and our exchange agreement covers the entire college, not only Paris.\n\nSciences Po is currently facing capacity constraints in Paris due to the growing number of exchange students. In addition, the undergraduate program in Paris is taught entirely in French, whereas in Reims, it is fully taught in English. As a result, we unfortunately may not accommodate students who need courses in English on the Paris campus.\n\nWe will ask students to indicate two campus choices (Paris or Reims) in their application. The final allocation is based on their academic profile and motivation letter.\n\nWhile the academic quality in Reims and Paris is identical, we truly believe that the student experience at the undergraduate level can be even more enriching on our regional campuses.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8302,7 +8302,7 @@
       "campus_lat": 20.9885973,
       "campus_lng": 105.9460279,
       "scholarship": "Y",
-      "notes": "",
+      "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8359,7 +8359,7 @@
       "campus_lat": 3.11954,
       "campus_lng": 101.6566603,
       "scholarship": "Y",
-      "notes": "",
+      "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16818,7 +16818,7 @@
       "campus_lat": 43.1177355,
       "campus_lng": -79.2498568,
       "scholarship": "Y",
-      "notes": "Located about 1 hour from Toronto and just 15 minutes from Niagara Falls — many students take weekend trips to New York\n~9,000 students; affordable cost of living compared to Toronto\nStudent fees consist of a Health Care Fee (CAD $66) and a bus pass only\nHome to an on-campus winery producing icewine; wine-related courses are open to all students with no prerequisites required\n150+ student clubs; diverse and inclusive campus community\nExperiential Learning courses offered across programs\nExcellent support services for students with disabilities and mental health challenges — students requiring additional care are encouraged to apply",
+      "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.\n\nLocated about 1 hour from Toronto and just 15 minutes from Niagara Falls — many students take weekend trips to New York\n~9,000 students; affordable cost of living compared to Toronto\nStudent fees consist of a Health Care Fee (CAD $66) and a bus pass only\nHome to an on-campus winery producing icewine; wine-related courses are open to all students with no prerequisites required\n150+ student clubs; diverse and inclusive campus community\nExperiential Learning courses offered across programs\nExcellent support services for students with disabilities and mental health challenges — students requiring additional care are encouraged to apply",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
