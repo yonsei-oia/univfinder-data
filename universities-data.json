@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T23:06:53.403719Z",
+  "generated_at": "2026-06-13T21:55:04.067350Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -163,13 +163,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "The University of Liverpool is a research-intensive member of the Russell Group, founded in 1881 as one of the United Kingdom's original \"red brick\" civic universities. Based in the heart of the maritime city of Liverpool, it teaches a broad range of subjects across the arts, sciences, social sciences, and management.",
+        "why_yonsei": "Liverpool gives Yonsei students a fully English-taught semester or year at a Russell Group university with a wide module choice across faculties. Visiting and exchange students live together in a dedicated study-abroad accommodation village on campus, a short walk from the city centre, which makes for an easy landing in a lively, friendly UK city.",
+        "campus_location": "The university occupies a single campus in central Liverpool, within walking distance of the city centre, waterfront, and cultural venues. Exchange students are housed in the study-abroad village (Tudor Close and Melville Grove) alongside other international and returning Liverpool students.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Visiting & Exchange Students",
+            "url": "https://www.liverpool.ac.uk/global-opportunities/visiting-students/"
+          },
+          {
+            "label": "What Can I Study (module list)",
+            "url": "https://www.liverpool.ac.uk/global-opportunities/visiting-students/study-in-liverpool/what-can-i-study/"
+          },
+          {
+            "label": "Entry Requirements",
+            "url": "https://www.liverpool.ac.uk/global-opportunities/visiting-students/study-in-liverpool/entry-requirements/"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -1372,13 +1385,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "The University of Geneva (UNIGE), founded in 1559, is a leading public research university in the international city of Geneva, Switzerland — home to the United Nations' European headquarters and many global organisations. It is known for strengths in the humanities, social sciences, law, the sciences, and translation and interpreting.",
+        "why_yonsei": "UNIGE places Yonsei students at the heart of international Geneva. It is primarily a French-speaking university, and a CEFR B2 level in French is recommended for regular courses, but a selection of courses is taught in English at both Bachelor and Master level, and free or discounted French classes are offered before and during the semester. Some faculties apply access restrictions for exchange students, so check the restrictions page when choosing courses.",
+        "campus_location": "The university is spread across the city of Geneva on the shores of Lake Geneva, a compact, international city framed by the Alps and the Jura mountains.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Choosing Your Classes (Exchange)",
+            "url": "https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students/1-choose-your-classes"
+          },
+          {
+            "label": "Courses Taught in English",
+            "url": "https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students/1-choose-your-classes/studying-english-regular-courses"
+          },
+          {
+            "label": "Information Sheet 2026-27 (PDF)",
+            "url": "https://www.unige.ch/exchange/application/files/1717/6536/9495/UNIGE_Info_sheet_26-27_EU.pdf"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -1429,13 +1455,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "University College Utrecht (UCU) is the international honours college of Utrecht University, offering an English-language, residential Liberal Arts and Sciences programme where students live and study together on a dedicated campus.",
+        "why_yonsei": "UCU offers Yonsei (UIC) students a selective, English-taught liberal arts and sciences exchange on an international residential campus in Utrecht. All UCU courses are open to exchange students, though some are highly competitive, and only a few exchange students are admitted each semester — a GPA of 3.0 and at least one full year of prior study are expected.",
+        "campus_location": "UCU occupies its own residential campus on the eastern edge of Utrecht, a historic and very student-friendly city in the centre of the Netherlands, well connected by train.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "UCU Exchange",
+            "url": "https://students.uu.nl/en/university-college-utrecht/academics/exchange"
+          },
+          {
+            "label": "How to Apply (Exchange Students)",
+            "url": "https://www.uu.nl/en/organisation/university-college-utrecht/how-to-apply/exchange-students"
+          },
+          {
+            "label": "UCU Course Information",
+            "url": "https://www.uu.nl/en/education/exchange-and-visiting-students/course-information/university-college-utrecht"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -1486,13 +1525,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Leiden University College The Hague (LUC) is the international, English-language honours college of Leiden University, founded in 2010 and based in the city of The Hague. It teaches an interdisciplinary Liberal Arts and Sciences programme organised around today's global challenges.",
+        "why_yonsei": "LUC offers Yonsei (UIC) students a small, English-taught liberal arts and sciences environment in The Hague, the Netherlands' city of international justice and governance. Its interdisciplinary courses align well with UIC majors, especially Sustainable Development and International Relations. As an exchange student you take individual LUC courses rather than completing a full major.",
+        "campus_location": "LUC is based in the centre of The Hague, the Dutch seat of government and home to international courts and organisations, a short train ride from Leiden and the coast.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "About LUC",
+            "url": "https://www.universiteitleiden.nl/en/governance-and-global-affairs/leiden-university-college-the-hague/about-luc"
+          },
+          {
+            "label": "Study Abroad & Exchange Admission",
+            "url": "https://www.universiteitleiden.nl/exchange-study-abroad-students/your-studies/governance-and-global-affairs/luc"
+          },
+          {
+            "label": "LUC Education",
+            "url": "https://www.universiteitleiden.nl/en/governance-and-global-affairs/leiden-university-college-the-hague/education"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -1657,13 +1709,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "The University of Hong Kong (HKU), founded in 1911, is Hong Kong's oldest university and a leading English-medium research university. This exchange is hosted by its Faculty of Arts, which spans the humanities — languages, literature, history, philosophy, and the study of Hong Kong and Asia.",
+        "why_yonsei": "HKU's Faculty of Arts offers Yonsei (UIC) students English-taught humanities courses at one of Asia's top universities, in the heart of Hong Kong, with tuition waived for exchange students. Please note that certain programmes (Medicine, Dentistry, and Exercise and Health) and most final-year project courses are not open to exchange students.",
+        "campus_location": "HKU's main campus is in Pok Fu Lam on the western side of Hong Kong Island, served by its own MTR station and overlooking the harbour, close to the city's cultural and business districts.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Faculty of Arts — Incoming Students",
+            "url": "https://arts.hku.hk/current-students/undergraduate/incoming-students"
+          },
+          {
+            "label": "Faculty of Arts Exchange Programme",
+            "url": "https://arts.hku.hk/current-students/student-experiential-learning/student-exchange-short-term-study-abroad-programmes/faculty-of-arts-exchange-programme/"
+          },
+          {
+            "label": "HKU Exchange (International Affairs Office)",
+            "url": "https://intlaffairs.hku.hk/exchange"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -2596,14 +2661,32 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Founded in 1495, the University of Aberdeen is one of Scotland's four ancient universities and the fifth-oldest in the English-speaking world. Set in the historic quarter of Old Aberdeen, it is home to more than 14,500 students from over 130 nationalities. The university is recognised as a centre of excellence in the Humanities, Law, Energy, Health Sciences, and Environmental Studies, and in 1497 it established the English-speaking world's first chair of medicine.",
+        "why_yonsei": "Aberdeen offers Yonsei students a fully English-taught exchange at one of the UK's strongest universities for Law and Education. Its founding strengths span the Arts, Humanities, Medicine, and Engineering, so students from most faculties find a broad course choice. All incoming exchange students are guaranteed campus accommodation, which makes settling into a new country straightforward.",
+        "campus_location": "The university sits in historic Old Aberdeen, a cobbled medieval quarter of the city of Aberdeen on Scotland's northeast coast — a compact, walkable student city. Most exchange students live nearby at Hillhead Student Village in self-catered single rooms.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
-        "video_links": [],
+        "useful_links": [
+          {
+            "label": "Exchange & Study Abroad",
+            "url": "https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/study-abroad/"
+          },
+          {
+            "label": "Course Catalogue",
+            "url": "https://www.abdn.ac.uk/registry/courses/undergraduate"
+          },
+          {
+            "label": "English Course Options 2026-27",
+            "url": "https://www.abdn.ac.uk/media/site/study/documents/English-Courses-2026-27.pdf"
+          }
+        ],
+        "video_links": [
+          {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/c/universityofaberdeen"
+          }
+        ],
         "gallery_urls": []
       }
     },
@@ -3446,13 +3529,22 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "The University of Lausanne (UNIL), with roots dating to 1537, is a research university on the shores of Lake Geneva in Lausanne, Switzerland. It is home to around 15,000 students and is known for strengths in the life sciences, geosciences, law, and business (HEC Lausanne).",
+        "why_yonsei": "UNIL gives Yonsei students a lakeside Swiss campus with a strong research reputation. UNIL is a French-speaking university, but a range of English-taught courses is open to exchange students, mainly at Master level with several at undergraduate level. A free three-week French course is offered before the autumn semester, and exchange students may take further French classes free of charge during the year.",
+        "campus_location": "The campus stretches along the northern shore of Lake Geneva on the edge of Lausanne, connected to the city by metro, with the lake and the Alps as a backdrop.",
         "accommodation": "",
         "student_tips": "",
-        "academic_requirements": "",
-        "useful_links": [],
+        "academic_requirements": "A minimum CEFR B2 level in the language of instruction (French and/or English, depending on the courses chosen) is expected. No official language test is required at HEC Lausanne.",
+        "useful_links": [
+          {
+            "label": "Studying at UNIL (Exchange)",
+            "url": "https://www.unil.ch/international/en/home/menuinst/etudiants-internationaux/etudiantes-dechange/etudier-a-lunil.html"
+          },
+          {
+            "label": "English-taught Courses (PDF)",
+            "url": "https://www.unil.ch/files/live/sites/unil/files/04-etudier/0405-mobilite-echange/etudiants-internationaux/UNIL_English_courses_2025-26_v1.pdf"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -3850,13 +3942,22 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "The Public University of Navarre (UPNA) is a public research university in Pamplona, in northern Spain. Exchange students can register across bachelor-level subjects, including a selection taught in English, alongside language, cultural, and sports courses.",
+        "why_yonsei": "UPNA gives Yonsei students a Spanish university experience in Pamplona — a walkable city famous for its festivals and close to the Pyrenees. Exchange students choose from bachelor subjects taught in Spanish or in English, and must show proof of B1 Spanish or B2 English for the language of their chosen courses. The university's Language Centre offers Spanish and other language courses for international students.",
+        "campus_location": "UPNA's Arrosadia campus sits within the city of Pamplona in the Navarre region of northern Spain, a green, manageable city at the foot of the Pyrenees.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Exchange & Visiting Students",
+            "url": "https://www.unavarra.es/relacionesinternacionales/relaciones-internacionales-y-movilidad/estudiantes-internacionales/exchange-and-visiting-students+?opcion=2&languageId=1"
+          },
+          {
+            "label": "Language Centre",
+            "url": "https://www.unavarra.es/centroidiomas/courses/english?languageId=1"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -4447,9 +4548,9 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
+        "about_text": "VU Amsterdam is a unique university with faculties in the humanities, STEM, social sciences and medical sciences. Our education and research are closely linked. We combine our top position in research with a strong social orientation, which has resulted in an excellent international reputation. Our education and research are distinctly multidisciplinary. This is reinforced by the fact that our faculties are all located on one campus. We are a true campus university in the heart of the Zuidas Knowledge District, sharing its excellent national and international position and accessibility.",
         "why_yonsei": "",
-        "campus_location": "Google Maps\n\nCampus Map\n\nVirtual Campus Tour",
+        "campus_location": "Virtual Campus Tour",
         "accommodation": "First-come first-served. Housing application is very competitive in the fall.",
         "student_tips": "☀️교환대학의 크기, 지리적 위치, 기후 등\n\n“네덜란드는 겨울 날씨가 좋지 않은 편입니다. 2월~7월에 머물렀는데, 거의 4,5월 까지는 흐리고 추웠습니다. 5월쯤 여름이 오기 전까지는 비가 오는 날이 많고 늘 우중충 한편입니다. 저는 원래 날씨를 좀 타는 편인데 초반 겨울에는 매일매일 흐리고 춥고 어두워서 좀 우울했습니다. 저는 나름 잘 적응해서 그런 날씨도 낭만으로 즐기긴 했는데, 날씨에 많이 예민하신 분들은 힘들 수도 있을 것 같습니다. 이러한 이유로 겨울학기 보다는 봄학기를 추천드립니다. 저는 초반을 버틴 뒤 5,6,7월 동안에는 푸릇푸릇하고 햇살 좋은 날씨를 즐겼는데, 겨울학기에 가면 이런 날씨를 거의 못 보고 바로 겨울일 것 같아요. 아 그런데! 더위를 싫어하시는 분에게는 추천입니다. 한여름에도 30도 이상인 날이 별로 없고 늘 건조하고 선선한 바람이 불어서 더운 걸 싫어하는 친구는 날씨에 매우 만족하더라구요. 저도 늘 쾌적한 점은 좋았습니다.” \n출처: “암스테르담 자유대학교 봄학기 교환 후기 (2024-1)”\n\n“VU대의 교정 자체는 연세대보다 작고, 아담하지만 대학의 규모나 시설면에서는 비슷하게 느껴졌습니다.” \n출처: “암스테르담 VU대 학생이 되다 (2024-1)”\n\n“Vrije University의 대학교는 많은 동이 있지는 않고 면적 자체도 크지는 않아요. 그래도 일부 건물 내부에 들어가면 생각보다 강의실이 많이 있어서 개강 전에 강의실 위치를 파악해두는 것이 좋을 것 같아요!물론 건물 내에서 근무하시는 VU 옷을 입고 계신 직원(?)분이나 학생들에게 물어봐도 친절하게 알려줍니다.” \n출처: “Vrije University에서의 잊지 못할 교환생활 (2023-1)”\n\n🏞️ 대학 주변 환경\n\n“또 주변에 엄청 큰 공원도 있는데, 센트럴 파크의 3배 크기라고 합니다. 엄청 커요. 날씨 좋을 때는 거기 호수에서 수영 할 수 있거든요? 10우러 전까지 매일 가세요. 죽여줍니다. 낭만 미쳤고 그랑자트 섬의 오후가 따로 없어요. 암스텔벤 최고!!” \n출처: “시간아~ 도대체 어디로 도망간거야!! (2023-2)”\n\n“Action은 우리나라 다이소 같은 곳이고, Hema는 모던하우스, 무인양품 같은 곳입니다. 좀 더 멀리 나가면 이케아도 있는데 자주 갈 일은 없었어요. 가성비 좋은 백팩 사려고 Bijlmer Arena 옆에 있는 Decathlon 매장에 갔었는데 지하철 타고 30분 정도 걸려요. 액션에 안 파는 스포츠용품 사실 거면 여기서 사면 됩니다.” \n출처: “암스테르담에서 6개월 살기 (2024-1)”\n\n“The VU campus is very peaceful and close to all transportation (bus, tram, train). There is a big area in the middle of all the college buildings with picnic tables, basketball courts, cafes, and etc. In the main building, there are all sorts of food options and very cheap coffee you can get from the machines. Compared to the Amsterdam city centre it is a calmer environment, which was very peaceful.” \n출처: “A semester at VU (2023-2)”\n\n🍽️ 거주 형태, 식사\n\n“기숙사가 송도학사, 무악학사처럼 학교에 딸린 기숙사가 아니고, 아울렌스테데(Uilenstede)라는 기숙사 단지가 있고, 거기를 듀오(Duwo)라는 student housing 회사가 관리하는 방식입니다. 그래서 주거 관련 계약, 컴플레인 등은 전부 듀오랑 하는 거지 자유대랑은 전혀 상관 없습니다. 다만 처음에는 자유대에서 듀오로 연결해주는 역할을 해줍니다. 그러고 나서는 전부 듀오에서 해결하면 돼요.” \n출처: “암스테르담에서 6개월 살기 (2024-1)”\n\n“네덜란드는 물가가 비싼 편이라서 외식은 거의 하지 않고 주로 만들어서 식사를 해결했습니다. 주변 한인 마트(silla)나 온라인 아시안 마트(ochama)를 통해 한식 재료 거의 다 구할 수 있었습니다. 기숙사에 사는 한국인 친구들도 많아서 같이 여러가지 요리를 해 먹었습니다. 장바구니 물가는 한국과 비슷하거나 몇몇 품목은 오히려 싼 정도라서, 직접 해 먹으면 비용 부담은 전혀 크지 않습니다.” \n출처: “암스테르담 자유대학교 봄학기 교환 후기 (2024-1))”\n\n“보통의 경우 1인실에 개인 화장실, 공용 주방인 곳에 거주하게 됩니다. 공용 주방은 같은 유닛에 사는 친구들 14명과 공유하지만 생활 패턴에 따라 사람들을 거의 마주치지 않을 수도 있습니다.” \n출처: “암스테르담 VU대 학생이 되다 (2024-1))”\n\n📚 수업, 도서관\n\n“The library in the main building is a bit small, but still comfortable, not as good as Yonsei's.” \n출처: “A semester at VU (2023-2)”\n\n“봄학기 수업은 총 3개의 period로 나뉘어 집니다. period 4는 2,3월, period 5는 4,5월, period 6는 6월에 진행되고, 대부분의 교환학생은 period 4,5만 듣습니다. (6은 선택사항입니다.)” \n출처: “암스테르담 자유대학교 봄학기 교환 후기 (2024-1)”\n\n“도서관은 좀 작아요. 별 거 없어요. 그런데 암스테르담 공립 도서관인 OVA가 옛 물류공장을 개조한 7층짜리 거대도서관이거든요? 거기 가세요. 좋아요. 4층에서는 영화도 볼 수 있어요. 샌드위치도 팔고 비 오는 날에 가 있기 너무 좋아요!” \n출처: “시간아~ 도대체 어디로 도망간거야!! (2023-2)”\n\n➕ 기타\n\n“병원은 처음 입사할 때 주는 안내 종이에 어떻게 지역 병원에 등록할 수 있는지가 나와있습니다. 그거 등록해놔야 필요할 때 병원에 바로 갈 수 있어요. 미리 등록해놓으세요. 네이버에도 검색하면 블로그 정보글 많이 있고, 외교부 홈페이지 중 주네덜란드 대사관 홈페이지에 공지사항/안내게시판에도 병원에 미리 등록하라는 안내글 올라와있어요. 자유대 가시면, 바로 옆에 자유대 대학병원이 있어서 그 병원으로 등록하시면 됩니다.” \n출처: “암스테르담에서 6개월 살기 (2024-1)”\n\n“네덜란드에 가서 가장 먼저해야 할 일은 자전거 구독입니다. 저는 몇 달후에 자전거 구독을 시작했는데요. 큰 자전거 프레임에 혼자 적응해야하는 것도 서러웠지만, 자전거로 닿을 수 있는 많은 곳을 이때까지 닿지 못 했다는 것이 가장 아쉬웠습니다. 자전거를 잘 타지 못하더라도, 네덜란드 사람들보다 키가 작아서 프레임이 너무 크더라도, 적응하면 웬만한 사람은 다 탈 수 있으니 꼭 처음에 가서 함께 적응하시고, 네덜란드 구석구석을 자전거로 누비시길 바랍니다!” \n출처: “암스테르담 VU대 학생이 되다 (2024-1)”\n\n“첫 시간에 여러 명의 더치 학생들이 손을 들고 왜 이 교재로 이런 과제를 내주었냐고 교수에게 항의하는 일이 있었습니다. 과제의 정당성이 부족하며, 배움에 도움이 되지 않는 형태의 과제라는 항의였습니다. 수업 첫날 이런 태도를 보고 상당히 신기했지만, 이런 당당함과 주관 있는 태도가 삶에 어느 정도 필요함을 느끼기도 했습니다.” \n출처: “암스테르담 자유대학교 24-1 교환 경험보고서(2024-1)”",
         "academic_requirements": "",
@@ -5134,13 +5235,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Maastricht University is the Netherlands' most international university, known for its Problem-Based Learning (PBL) model of small-group, student-led study. This exchange is hosted by its Faculty of Arts and Social Sciences (FASoS), an interdisciplinary faculty spanning history, arts and culture, politics, and European studies.",
+        "why_yonsei": "FASoS offers Yonsei students an entirely English-taught, discussion-driven exchange built on Maastricht's signature Problem-Based Learning, where students work in small tutorial groups on real-world problems. As the university's most international faculty, it brings together students from around the world. This exchange covers courses within the Faculty of Arts and Social Sciences.",
+        "campus_location": "Maastricht is a compact, historic city in the far south of the Netherlands, at the meeting point of Belgium and Germany; the faculty's buildings sit among the cobbled streets of the old town.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "FASoS Exchange",
+            "url": "https://www.maastrichtuniversity.nl/education/exchange/fasos"
+          },
+          {
+            "label": "Incoming Exchange Students",
+            "url": "https://www.maastrichtuniversity.nl/education/exchange"
+          },
+          {
+            "label": "Problem-Based Learning",
+            "url": "https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -7188,13 +7302,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Founded in 1957, INSA Lyon is one of France's leading public engineering grandes écoles and the largest school of the INSA group. Located in Villeurbanne on the edge of Lyon, it trains engineers across fields ranging from mechanical and civil engineering to computer science and biosciences.",
+        "why_yonsei": "INSA Lyon suits Yonsei engineering students who want a rigorous French engineering education. Most teaching is in French, so a good command of French is recommended. A limited set of programmes is taught in English, including the Information Science and Technology (IST) semester and an International Bachelor in Mechanical, Materials and Aerospace Engineering. A minimum B1 level in the language of instruction (French and/or English) is expected.",
+        "campus_location": "INSA Lyon occupies the La Doua campus in Villeurbanne, a lively student district adjacent to Lyon, France's second-largest city and a major hub for food, culture, and the Alps.",
         "accommodation": "",
         "student_tips": "",
-        "academic_requirements": "",
-        "useful_links": [],
+        "academic_requirements": "A minimum B1 level in the language of instruction (French and/or English) is required. The English-taught course offering is limited, so a good level of French is recommended to complete the learning agreement.",
+        "useful_links": [
+          {
+            "label": "Exchange Students",
+            "url": "https://www.insa-lyon.fr/en/exchange-students"
+          },
+          {
+            "label": "Courses Taught in English",
+            "url": "https://www.insa-lyon.fr/en/courses-taught-english"
+          },
+          {
+            "label": "Following Lectures in English",
+            "url": "https://www.insa-lyon.fr/en/follow-lectures-english"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -7302,13 +7429,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "ESCE International Business School is a private business school located in the heart of Paris, France. It focuses on international business, with teaching in international marketing, management, finance, economics, and supply chain.",
+        "why_yonsei": "ESCE offers Yonsei students a business-focused exchange in central Paris. Exchange students follow a track taught entirely in English or entirely in French — the two cannot be combined — across international marketing, management, finance, economics, and supply chain. Credits follow the ECTS system and are returned on a transcript to the home university.",
+        "campus_location": "ESCE is based in Paris, giving students a study base in one of Europe's major centres for business, culture, and international organisations.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Academic Mobility for International Students",
+            "url": "https://www.esce.fr/en/academic-mobility-for-international-students/"
+          },
+          {
+            "label": "International Students",
+            "url": "https://www.esce.fr/en/foreign-students-welcome/"
+          },
+          {
+            "label": "Degree Programs for International Students",
+            "url": "https://www.esce.fr/en/our-degree-programs-for-international-students/"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -7491,13 +7631,30 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Aalto University was formed in 2010 by merging three established Finnish institutions in technology, business, and art and design. Based in Espoo in the Helsinki capital region, it is internationally recognised for science, engineering, technology, and design.",
+        "why_yonsei": "Aalto is a strong choice for Yonsei students in science and engineering, with a large slate of English-taught courses — most of them at Master level in the schools of Science and Technology. The full study load is 30 ECTS per term. Please note that on-campus housing is not guaranteed: rooms through the Hoas agreement are limited, so applying early is important. (Courses are taken within Aalto's technology schools; the Schools of Business and of Arts, Design and Architecture are not open to this exchange.)",
+        "campus_location": "Aalto's main campus is in Otaniemi, Espoo, a green, architecture-rich district in the Helsinki capital region, connected to central Helsinki by metro.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Studies for Incoming Exchange Students",
+            "url": "https://www.aalto.fi/en/international-students/studies-for-incoming-exchange-students"
+          },
+          {
+            "label": "School of Science — Exchange Studies",
+            "url": "https://www.aalto.fi/en/international-students/studies-at-the-school-of-science-for-exchange-students"
+          },
+          {
+            "label": "School of Engineering — Exchange Studies",
+            "url": "https://www.aalto.fi/en/international-students/studies-at-the-school-of-engineering-for-exchange-students"
+          },
+          {
+            "label": "Housing for Exchange Students",
+            "url": "https://www.aalto.fi/en/international-students/housing-for-exchange-students"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -8615,13 +8772,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Deakin University is a public university in the state of Victoria, Australia, with campuses in Melbourne (Burwood), Geelong, and Warrnambool. It teaches across a broad range of disciplines in English and runs on a trimester calendar.",
+        "why_yonsei": "Deakin offers Yonsei students an English-taught exchange across its Victorian campuses, from suburban Melbourne to the coast at Geelong and Warrnambool. Units are available across a broad range of disciplines, and its trimester system gives flexibility in when a semester begins.",
+        "campus_location": "Deakin spreads across four campuses in Victoria — Melbourne Burwood, Geelong Waurn Ponds, Geelong Waterfront, and Warrnambool — ranging from a large suburban Melbourne campus to coastal settings.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Study Abroad & Exchange",
+            "url": "https://www.deakin.edu.au/international-students/study-abroad-and-exchange"
+          },
+          {
+            "label": "How to Apply",
+            "url": "https://www.deakin.edu.au/international-students/study-abroad-and-exchange/how-to-apply-for-study-abroad-and-exchange"
+          },
+          {
+            "label": "Pre-approved Study Options",
+            "url": "https://www.deakin.edu.au/international-students/study-abroad-and-exchange/pre-approved-study-options"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -8672,13 +8842,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Curtin University is the largest university in Western Australia, based in Perth. It teaches all courses in English and is known for strengths in engineering and resources, business, science, and the humanities.",
+        "why_yonsei": "Curtin offers Yonsei students a fully English-taught semester or year in Perth, with particular strengths in engineering, resources, and business. Exchange students enrol in 75 to 100 credits per semester on a 17-week calendar. As an exchange partner, Curtin charges no tuition — students continue to pay their home university.",
+        "campus_location": "Curtin's main Bentley campus sits a short distance from central Perth on Australia's sunny west coast, a large, self-contained campus with extensive student facilities.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Study Abroad & Exchange (Inbound)",
+            "url": "https://www.curtin.edu.au/study/learning-experience/global-study/global-inbound/"
+          },
+          {
+            "label": "Student Exchange",
+            "url": "https://www.curtin.edu.au/study/learning-experience/global-study/global-inbound/student-exchange/"
+          },
+          {
+            "label": "Course Handbook",
+            "url": "https://handbook.curtin.edu.au/"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -10027,13 +10210,22 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "The University of the Ryukyus is the largest national university in Okinawa, Japan. For exchange students it runs the Ryukyus International Student Exchange (RISE) short-term program, built around Japanese-language study and the history and culture of Japan and Okinawa.",
+        "why_yonsei": "The University of the Ryukyus gives Yonsei students the chance to study in Okinawa through its short-term exchange program (RISE), with tracks in Japan–Okinawa studies, glocal leadership, or a major-specific course. Most teaching is in Japanese, so Japanese-language ability is valuable; the program is designed to develop Japanese skills alongside subject study and exchange with local students.",
+        "campus_location": "The university's main campus lies in the towns of Nishihara, Ginowan, and Nakagusuku on Okinawa's main island — a subtropical setting with a distinctive island culture and climate.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Exchange Programs",
+            "url": "https://www.u-ryukyu.ac.jp/en/admissions/exchange-programs/"
+          },
+          {
+            "label": "International Student Unit (Global Education Center)",
+            "url": "https://isu.skr.u-ryukyu.ac.jp/?lang=en"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -10456,13 +10648,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Mejiro University is a private university in Tokyo, with its International Exchange Center in Shinjuku. For international students its programmes centre on Japanese-language study, including a one-year intensive Japanese Language Program (JALP).",
+        "why_yonsei": "Mejiro University suits Yonsei students who want to study Japanese language and culture in central Tokyo. The exchange is based at the Shinjuku campus around Japanese and Japanese-language education, with an intensive Japanese Language Program and an active international-student support community.",
+        "campus_location": "The Shinjuku campus sits in Nakaochiai, Shinjuku, in the heart of Tokyo — a convenient base from which to explore one of the world's largest cities.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "International Programs",
+            "url": "https://www.mejiro.ac.jp/eng/international/"
+          },
+          {
+            "label": "International Exchange Center",
+            "url": "https://www.mejiro.ac.jp/eng/international/exchange/"
+          },
+          {
+            "label": "Japanese Language Education Center",
+            "url": "https://www.mejiro.ac.jp/eng/international/japanese/"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -11689,13 +11894,26 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "The Chinese University of Hong Kong (CUHK), founded in 1963, is a comprehensive research university known for its collegiate system and its large, green hillside campus in Sha Tin. It teaches across the Arts, Business, Engineering, Law, Medicine, Science, Social Science, and Education, with English, Cantonese, and Mandarin used as languages of instruction.",
+        "why_yonsei": "CUHK offers Yonsei students a wide choice of English-taught courses across many faculties on one of Asia's most striking campuses, and Chinese-language ability is not required. A minimum GPA of around 3.0/4.0 is recommended. Note that some Law and Bachelor of Arts courses have access restrictions for exchange students, so it is worth checking the course-exception list when planning a study plan.",
+        "campus_location": "CUHK occupies a large, hillside campus in Sha Tin in Hong Kong's New Territories, organised into residential colleges and linked to the city by its own MTR station, with views over Tolo Harbour.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Office of Academic Links (Exchange)",
+            "url": "https://www.oalglobal.cuhk.edu.hk/getting_started/"
+          },
+          {
+            "label": "Student Exchange @ CUHK",
+            "url": "https://www.oalglobal.cuhk.edu.hk/exchange2024/"
+          },
+          {
+            "label": "Course Exceptions (PDF)",
+            "url": "https://www.oalglobal.cuhk.edu.hk/files/incoming/course_exceptions.pdf"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -12775,13 +12993,22 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Washington & Jefferson College (W&J) is a small private liberal arts college in Washington, Pennsylvania, with roots dating to 1781. It offers a close-knit American liberal arts experience built on small classes and an active campus community of more than 60 student clubs and organisations.",
+        "why_yonsei": "W&J gives Yonsei students a classic small-college liberal arts experience in the United States, with small classes, a broad choice of subjects, and easy access to clubs and sports. Exchange students may take courses across the curriculum provided they meet the prerequisites; a few first-year-only courses, such as the First-Year Seminar and Freshman Composition, are reserved for degree-seeking students.",
+        "campus_location": "W&J's historic campus sits in the small city of Washington, Pennsylvania, about a 40-minute drive south of Pittsburgh, offering a compact, residential setting.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Exchange Students",
+            "url": "https://www.washjeff.edu/academics/beyond-the-classroom/exchange-students/"
+          },
+          {
+            "label": "Study Abroad Office",
+            "url": "https://www.washjeff.edu/department/study-abroad/"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
@@ -15682,13 +15909,22 @@
       "change_note": "",
       "hide_from_students": "N",
       "content": {
-        "about_text": "",
-        "why_yonsei": "",
-        "campus_location": "",
+        "about_text": "Colgate University is a highly selective private liberal arts college founded in 1819 in the village of Hamilton, in upstate New York. With around 3,000 undergraduates on a residential campus, it offers a broad liberal arts curriculum taught in small classes.",
+        "why_yonsei": "Colgate offers Yonsei students a classic American residential liberal arts experience — small, discussion-based classes and a wide choice of subjects on a close-knit campus. The Office of International Student Services supports exchange students from the visa process through daily life. Please note that exchange places are primarily offered for the spring term.",
+        "campus_location": "Colgate's campus sits in the small village of Hamilton in rural upstate New York, offering an intimate, community-focused setting roughly midway between Syracuse and Utica.",
         "accommodation": "",
         "student_tips": "",
         "academic_requirements": "",
-        "useful_links": [],
+        "useful_links": [
+          {
+            "label": "Student Exchanges",
+            "url": "https://www.colgate.edu/about/offices-centers-institutes/centers-institutes/center-international-programs/student-exchanges"
+          },
+          {
+            "label": "Center for International Programs",
+            "url": "https://www.colgate.edu/about/offices-centers-institutes/centers-institutes/center-international-programs"
+          }
+        ],
         "video_links": [],
         "gallery_urls": []
       }
