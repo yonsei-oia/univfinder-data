@@ -1,24 +1,5 @@
 {
   "schema_version": 1,
-  "updates": [
-    {
-      "slug": "chalmers-university-of-technology",
-      "date": "2026-06-14",
-      "kind": "changed",
-      "changes": [
-        {
-          "field": "quota",
-          "from": 4,
-          "to": 3
-        },
-        {
-          "field": "scholarship",
-          "from": "",
-          "to": "Y"
-        }
-      ],
-      "note": null
-    }
-  ],
-  "generated_at": "2026-06-14T14:50:30.597082+00:00"
+  "updates": [],
+  "generated_at": "2026-06-14T14:58:33.292430+00:00"
 }
