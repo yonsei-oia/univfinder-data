@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T01:49:36.355044Z",
+  "generated_at": "2026-06-15T09:39:37.103670Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -57,48 +57,32 @@
         "academic_requirements": "",
         "useful_links": [
           {
-            "label": "Course Catalogue",
-            "url": "https://unipd.coursecatalogue.cineca.it/\nKey Academic Dates | https://www.unipd.it/en/scadenze-calendario-accademico\nWelcome Days / Orientation | http://www.unipd.it/en/welcome-days\nAccommodation | https://www.unipd.it/en/alloggio-accordi-bilaterali\nHousingAnywhere (Unipd VIP) | https://www.unipd.it/housinganywhere-pd-en\nItalian Language Centre (CLA) | http://cla.unipd.it/en/\nBefore Your Arrival (Bilateral) |\nhttps://www.unipd.it/en/before-your-arrival-bilateral-agreements"
-          },
-          {
-            "label": "https://unipd.coursecatalogue.cineca.it/",
+            "label": "unipd.coursecatalogue.cineca.it",
             "url": "https://unipd.coursecatalogue.cineca.it/"
           },
           {
-            "label": "https://www.unipd.it/en/scadenze-calendario-accademico",
+            "label": "Scadenze calendario accademico",
             "url": "https://www.unipd.it/en/scadenze-calendario-accademico"
           },
           {
-            "label": "http://www.unipd.it/en/welcome-days",
+            "label": "Welcome days",
             "url": "http://www.unipd.it/en/welcome-days"
           },
           {
-            "label": "https://www.unipd.it/en/alloggio-accordi-bilaterali",
+            "label": "Alloggio accordi bilaterali",
             "url": "https://www.unipd.it/en/alloggio-accordi-bilaterali"
           },
           {
-            "label": "https://www.unipd.it/housinganywhere-pd-en",
+            "label": "Housinganywhere pd en",
             "url": "https://www.unipd.it/housinganywhere-pd-en"
           },
           {
-            "label": "http://cla.unipd.it/en/",
+            "label": "cla.unipd.it",
             "url": "http://cla.unipd.it/en/"
           },
           {
             "label": "https://www.unipd.it/en/before-your-arrival-bilateral-agreements",
             "url": "https://www.unipd.it/en/before-your-arrival-bilateral-agreements"
-          },
-          {
-            "label": "Social media\nFacebook",
-            "url": "https://it-it.facebook.com/universitapadova/\nInstagram | https://www.instagram.com/unipd"
-          },
-          {
-            "label": "https://it-it.facebook.com/universitapadova/",
-            "url": "https://it-it.facebook.com/universitapadova/"
-          },
-          {
-            "label": "https://www.instagram.com/unipd",
-            "url": "https://www.instagram.com/unipd"
           }
         ],
         "video_links": [],
@@ -109,9 +93,9 @@
     {
       "slug": "uic-exclusive-barnard-college",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barnard%20Logo.jpg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) Barnard College",
       "website": "https://barnard.edu/visiting-international-students-programs",
       "continent": "Americas",
@@ -694,9 +678,9 @@
     {
       "slug": "sorbonne-university-faculty-of-science-and-engineering",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Sorbonne%20University.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Sorbonne University - Faculty of Science and Engineering",
       "website": "https://sciences.sorbonne-universite.fr/",
       "continent": "Europe",
@@ -1864,9 +1848,9 @@
     {
       "slug": "uic-exclusive-university-of-geneva",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uni%20GE%20logo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) University of Geneva",
       "website": "https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students",
       "continent": "Europe",
@@ -1935,9 +1919,9 @@
     {
       "slug": "uic-exclusive-utrecht-university",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Utrecht-univesrsity-logo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) Utrecht University",
       "website": "https://www.uu.nl/en/organisation/university-college-utrecht/how-to-apply/exchange-students",
       "continent": "Europe",
@@ -2006,9 +1990,9 @@
     {
       "slug": "uic-exclusive-leiden-university",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UniversiteitLeidenLogo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) Leiden University",
       "website": "https://www.universiteitleiden.nl/en/education/admission-and-application/exchange",
       "continent": "Europe",
@@ -2148,9 +2132,9 @@
     {
       "slug": "uic-exclusive-waseda-university",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waseda.png",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) Waseda University",
       "website": "https://www.waseda.jp/fire/sils/en/oneyear/about/",
       "continent": "Asia/Oceania",
@@ -2361,9 +2345,9 @@
     {
       "slug": "uic-exclusive-wellesley-college",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Formal%20Logo%20of%20Wellesley%20College%2C%20Wellesley%2C%20MA%2C%20USA.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) Wellesley College",
       "website": "https://www1.wellesley.edu/international/exchange_students",
       "continent": "Americas",
@@ -2432,9 +2416,9 @@
     {
       "slug": "uic-exclusive-dartmouth-college",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dartmouth%20College%20logo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) Dartmouth College",
       "website": "http://ocp-prod.dartmouth.edu/",
       "continent": "Americas",
@@ -2503,9 +2487,9 @@
     {
       "slug": "uic-exclusive-amherst-college",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amherst%20College%20logo.png",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "(UIC Exclusive) Amherst College",
       "website": "https://www.amherst.edu/",
       "continent": "Americas",
@@ -3416,9 +3400,9 @@
     {
       "slug": "university-of-aberdeen",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield_of_the_University_of_Aberdeen.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "University of Aberdeen",
       "website": "http://abdn.ac.uk/studyabroad",
       "continent": "Europe",
@@ -6835,9 +6819,9 @@
     {
       "slug": "maastricht-university-school-of-business-economics",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20UniMaastricht.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Maastricht University - School of Business & Economics",
       "website": "https://www.maastrichtuniversity.nl/education/exchange/sbe",
       "continent": "Europe",
@@ -6960,9 +6944,9 @@
     {
       "slug": "maastricht-university-faculty-of-arts-social-sciences",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20UniMaastricht.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Maastricht University - Faculty of Arts & Social Sciences",
       "website": "https://www.maastrichtuniversity.nl/education/exchange/fasos",
       "continent": "Europe",
@@ -7102,9 +7086,9 @@
     {
       "slug": "inholland-university-faculty-of-engineering-design-and-computing-edc",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Official%20logo%20of%20Inholland%20University%20of%20Applied%20Sciences.jpg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Inholland University - Faculty of Engineering, Design and Computing (EDC)",
       "website": "https://www.inholland.nl/inhollandcom/",
       "continent": "Europe",
@@ -7211,9 +7195,9 @@
     {
       "slug": "inholland-university-faculty-of-business-finance-law",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Official%20logo%20of%20Inholland%20University%20of%20Applied%20Sciences.jpg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Inholland University - Faculty of Business, Finance & Law",
       "website": "https://www.inholland.nl/inhollandcom/",
       "continent": "Europe",
@@ -8059,9 +8043,9 @@
     {
       "slug": "technological-university-dublin-faculty-of-business",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TU%20Dublin%20Logo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Technological University Dublin - Faculty of Business",
       "website": "https://www.tudublin.ie/explore/faculties-and-schools/business/",
       "continent": "Europe",
@@ -9583,9 +9567,9 @@
     {
       "slug": "sorbonne-university-faculty-of-letters",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Sorbonne%20University.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Sorbonne University - Faculty of Letters",
       "website": "https://www.sorbonne-universite.fr/#Lettres",
       "continent": "Europe",
@@ -10144,9 +10128,9 @@
     {
       "slug": "aalto-university-school-of-science-and-engineering",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aalto-yliopiston%20logo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Aalto University - School of Science and Engineering",
       "website": "https://www.aalto.fi/en",
       "continent": "Europe",
@@ -10219,9 +10203,9 @@
     {
       "slug": "aalto-university-school-of-business",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aalto-yliopiston%20logo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Aalto University - School of Business",
       "website": "https://www.aalto.fi/en/international-students/incoming-exchange-students",
       "continent": "Europe",
@@ -16895,9 +16879,9 @@
     {
       "slug": "university-of-pennsylvania-wharton-school-of-business",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield%20of%20the%20University%20of%20Pennsylvania.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "University of Pennsylvania - Wharton School of Business",
       "website": "https://global.upenn.edu/pennabroad/exchangeatpenn",
       "continent": "Americas",
@@ -16962,9 +16946,9 @@
     {
       "slug": "university-of-pennsylvania-arts-and-sciences-engineering-and-applied-science",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield%20of%20the%20University%20of%20Pennsylvania.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "University of Pennsylvania - Arts and Sciences/Engineering and Applied Science",
       "website": "https://global.upenn.edu/pennabroad/exchangeatpenn",
       "continent": "Americas",
@@ -19107,9 +19091,9 @@
     {
       "slug": "new-york-university-stern-school-of-business",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nyu%20short%20color.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "New York University - Stern School of Business",
       "website": "https://www.stern.nyu.edu/portal-partners/current-students/undergraduate/global/international-business-exchange-program/incoming-exchange-students",
       "continent": "Americas",
@@ -21027,9 +21011,9 @@
     {
       "slug": "simon-fraser-university-beedie-school-of-business",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SFU-block-logo.svg",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "Simon Fraser University - Beedie School of Business",
       "website": "http://beedie.sfu.ca/international",
       "continent": "Americas",
@@ -21165,9 +21149,9 @@
     {
       "slug": "mcgill-university-faculty-of-management",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mcgill%20univ%20ca%20logo.png",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "McGill University - Faculty of Management",
       "website": "https://www.mcgill.ca/mcgillabroad/come-mcgill/request-exchange",
       "continent": "Americas",
@@ -21236,9 +21220,9 @@
     {
       "slug": "mcgill-university-all-other-faculties",
       "last_updated": null,
-      "cover_image_url": "",
-      "cover_image_credit": "",
-      "cover_image_kind": "",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mcgill%20univ%20ca%20logo.png",
+      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_kind": "logo",
       "university_name": "McGill University - All Other Faculties",
       "website": "https://www.mcgill.ca/mcgillabroad/come-mcgill/request-exchange",
       "continent": "Americas",
