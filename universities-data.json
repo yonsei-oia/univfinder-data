@@ -1,8 +1,111 @@
 {
-  "generated_at": "2026-06-14T22:04:15.323072Z",
+  "generated_at": "2026-06-15T01:49:36.355044Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
+    {
+      "slug": "university-of-padua",
+      "last_updated": null,
+      "cover_image_url": "",
+      "cover_image_credit": "",
+      "cover_image_kind": "",
+      "university_name": "University of Padua",
+      "website": "https://www.unipd.it/en",
+      "continent": "Europe",
+      "country": "Italy",
+      "language_of_instruction_1": "English",
+      "language_of_instruction_2": "",
+      "quota": 4,
+      "quota_unit": "slot",
+      "accepts_undergrad": "Y",
+      "accepts_grad": "Y",
+      "gpa_required": null,
+      "fall_one_semester": "Y",
+      "fall_calendar_year": "Y",
+      "spring_one_semester": "Y",
+      "spring_calendar_year": "Y",
+      "academic_system": "Semester",
+      "toefl_total": null,
+      "toefl_subscores": "",
+      "lang2_level": "",
+      "language_other_notes": "Italian-taught courses require A2 Italian.",
+      "available_areas": "Open across most Schools (humanities, sciences, engineering, law, economics, psychology, political and statistical sciences).",
+      "restricted_areas": "",
+      "admission_notes": "Exchange students select courses from the course catalogue (https://unipd.coursecatalogue.cineca.it/).\n\nNominated exchange students only (no free-movers). English-taught courses require B1 English; Italian-taught courses require A2 (TOEFL, IELTS, Cambridge, or Duolingo accepted). Application is completed online via Service4Mobility Online.",
+      "fall_nomination_deadline": "04/30",
+      "fall_application_deadline": "05/15",
+      "spring_nomination_deadline": "10/15",
+      "spring_application_deadline": "10/31",
+      "academic_calendar": "https://www.unipd.it/en/scadenze-calendario-accademico",
+      "housing_info": "https://www.unipd.it/en/alloggio-accordi-bilaterali (First-come-first-served, limited)\n\nUniversity halls are limited and not guaranteed; non-EU students who need a visa receive first-round priority, with rooms assigned in order of request. Rent is €290–420 per month plus a €380 booking fee. Private rooms are available through HousingAnywhere.",
+      "housing_guaranteed": "Partial",
+      "recent_factsheet": "https://storage.tally.so/private/Factsheet_Bilateral-Agreements_Ulisse_26_27.pdf?id=P4L8Z0&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlA0TDhaMCIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc3OTc4NzQ1N30.1Rk-Ek40g35J2gGsBek9OKxrqZs9vquBRSNkNmmh5yU&signature=644a9dc44fd4893a85101e7ca4a4c1adb3add45efb093b7c50192a79e7b9da94",
+      "additional_link": "",
+      "campus_map_url": "",
+      "campus_lat": 45.4066496,
+      "campus_lng": 11.8774407,
+      "scholarship": "",
+      "notes": "Newly added partner for 2027 - both autumn and spring exchange are available!",
+      "change_note": "",
+      "hide_from_students": "N",
+      "content": {
+        "about_text": "The University of Padua (Università degli Studi di Padova) is a comprehensive public research university in northern Italy, established in 1222 and among the oldest universities in the world. With around 60,000 students and historic ties to figures such as Galileo Galilei, it teaches across the humanities, sciences, engineering, medicine, law, and the social sciences. It is based in the city of Padua, in the Veneto region, about half an hour from Venice by train.",
+        "why_yonsei": "Founded in 1222, the University of Padua is one of the oldest universities in the world — the place where Galileo Galilei taught for nearly two decades. For Yonsei students, it offers English-taught courses across a wide range of fields, a lively student city in Italy's Veneto region just a short train ride from Venice, and warm support through its Buddy programme and the ESN student network. Both one-semester and full-year stays are possible, in either the autumn or the spring term.",
+        "campus_location": "The university is woven through the historic city of Padua, with its ceremonial seat at the sixteenth-century Palazzo Bo. Padua is also home to the Orto Botanico, the world's oldest academic botanical garden and a UNESCO World Heritage Site. From the Veneto region, Venice, Verona, and the wider north of Italy are all within easy reach by rail.",
+        "accommodation": "",
+        "student_tips": "Request a student Buddy through the application portal for help settling in, and join ESN Padova for trips and social events. The University Language Centre (CLA) runs Italian courses for incoming students, the Sport Centre (CUS) gives low-cost access to facilities, and free psychological support is available to all students. University canteens serve meals at roughly €4.60–5.70.",
+        "academic_requirements": "",
+        "useful_links": [
+          {
+            "label": "Course Catalogue",
+            "url": "https://unipd.coursecatalogue.cineca.it/\nKey Academic Dates | https://www.unipd.it/en/scadenze-calendario-accademico\nWelcome Days / Orientation | http://www.unipd.it/en/welcome-days\nAccommodation | https://www.unipd.it/en/alloggio-accordi-bilaterali\nHousingAnywhere (Unipd VIP) | https://www.unipd.it/housinganywhere-pd-en\nItalian Language Centre (CLA) | http://cla.unipd.it/en/\nBefore Your Arrival (Bilateral) |\nhttps://www.unipd.it/en/before-your-arrival-bilateral-agreements"
+          },
+          {
+            "label": "https://unipd.coursecatalogue.cineca.it/",
+            "url": "https://unipd.coursecatalogue.cineca.it/"
+          },
+          {
+            "label": "https://www.unipd.it/en/scadenze-calendario-accademico",
+            "url": "https://www.unipd.it/en/scadenze-calendario-accademico"
+          },
+          {
+            "label": "http://www.unipd.it/en/welcome-days",
+            "url": "http://www.unipd.it/en/welcome-days"
+          },
+          {
+            "label": "https://www.unipd.it/en/alloggio-accordi-bilaterali",
+            "url": "https://www.unipd.it/en/alloggio-accordi-bilaterali"
+          },
+          {
+            "label": "https://www.unipd.it/housinganywhere-pd-en",
+            "url": "https://www.unipd.it/housinganywhere-pd-en"
+          },
+          {
+            "label": "http://cla.unipd.it/en/",
+            "url": "http://cla.unipd.it/en/"
+          },
+          {
+            "label": "https://www.unipd.it/en/before-your-arrival-bilateral-agreements",
+            "url": "https://www.unipd.it/en/before-your-arrival-bilateral-agreements"
+          },
+          {
+            "label": "Social media\nFacebook",
+            "url": "https://it-it.facebook.com/universitapadova/\nInstagram | https://www.instagram.com/unipd"
+          },
+          {
+            "label": "https://it-it.facebook.com/universitapadova/",
+            "url": "https://it-it.facebook.com/universitapadova/"
+          },
+          {
+            "label": "https://www.instagram.com/unipd",
+            "url": "https://www.instagram.com/unipd"
+          }
+        ],
+        "video_links": [],
+        "gallery_urls": [],
+        "social_links": []
+      }
+    },
     {
       "slug": "uic-exclusive-barnard-college",
       "last_updated": null,
