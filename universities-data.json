@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T00:16:56.754771Z",
+  "generated_at": "2026-06-16T00:35:35.411392Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -46,6 +46,7 @@
       "campus_lng": 11.8774407,
       "scholarship": "",
       "notes": "Newly added partner for 2027 - both autumn and spring exchange are available!",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -133,6 +134,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -204,6 +206,7 @@
       "campus_lng": -88.1745878,
       "scholarship": "",
       "notes": "Year-long students must maintain a minimum GPA of 2.0 at the end of the fall semester to continue to the spring.\nExchange students are required to live on campus. Once admitted to the exchange program, a housing application must be completed: https://housing.sa.ua.edu/incoming-students/apply\nImmunizations are required and must be completed before course registration: https://shc.sa.ua.edu/forms/immunization-form",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -275,6 +278,7 @@
       "campus_lng": -2.9658337,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -346,6 +350,7 @@
       "campus_lng": -0.2390498,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -417,6 +422,7 @@
       "campus_lng": -4.2778997,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -522,6 +528,7 @@
       "campus_lng": -0.5780704,
       "scholarship": "",
       "notes": "Students should not choose classes from different colleges as it get more complex for the university to register students successfully.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -598,6 +605,7 @@
       "campus_lng": -1.6289349,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -718,6 +726,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "The faculty of Science and Engineering of Sorbonne Université offers a large number of courses taught in English. These courses are open to local and international students. https://sciences.sorbonne-universite.fr/en/courses-taught-english",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -789,6 +798,7 @@
       "campus_lng": 30.2964999,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -860,6 +870,7 @@
       "campus_lng": 37.5317977,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -968,6 +979,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1031,6 +1043,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1128,6 +1141,7 @@
       "campus_lng": 131.8944953,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1199,6 +1213,7 @@
       "campus_lng": 11.9765259,
       "scholarship": "Y",
       "notes": "Chalmers offers up to three scholarships of SEK 25,000 to Yonsei students coming for the Spring 2027 semester, funded by the Adlerbertska Hospitality Foundation. Selected students receive instructions by email in late February, provide their bank details by mid-March, and receive the scholarship by mid-April.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1266,6 +1281,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "Buddy program: https://www.unive.it/pag/28622/\nFree Italian courses: https://www.unive.it/pag/9945/\nA variety of associations, societies, and sports opportunities (https://www.unive.it/pag/29784/) — radio, choir, theatre, and much more.\nMaps of student life in Venice: https://drive.google.com/file/d/1ez6uWynyx72aoSBWyt01fGY162lYyFzA/view?usp=sharing",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1395,6 +1411,7 @@
       "campus_lng": 9.1892636,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1516,6 +1533,7 @@
       "campus_lng": 11.6692249,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host portal (a tamper-proof PDF).",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1633,6 +1651,7 @@
       "campus_lng": -82.4138362,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1704,6 +1723,7 @@
       "campus_lng": 11.0095474,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1821,6 +1841,7 @@
       "campus_lng": -111.8368719,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1888,6 +1909,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -1959,6 +1981,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2030,6 +2053,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2101,6 +2125,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2172,6 +2197,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2243,6 +2269,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2314,6 +2341,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2385,6 +2413,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2456,6 +2485,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2527,6 +2557,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2598,6 +2629,7 @@
       "campus_lng": 29.7422326,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2739,6 +2771,7 @@
       "campus_lng": -1.0314589,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2810,6 +2843,7 @@
       "campus_lng": -1.5059315,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You share it yourself via the host's ShARe system (a link is emailed).",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -2923,6 +2957,7 @@
       "campus_lng": -1.555111,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3060,6 +3095,7 @@
       "campus_lng": -3.5347349,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3127,6 +3163,7 @@
       "campus_lng": -2.6304825,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3194,6 +3231,7 @@
       "campus_lng": -1.9320033,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3307,6 +3345,7 @@
       "campus_lng": -2.3234206,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3440,6 +3479,7 @@
       "campus_lng": -2.1018424,
       "scholarship": "",
       "notes": "Aberdeen's International Office is known for its warm welcome to exchange students - and the campus is home to friendly resident cats. As the team likes to say, the cats are waiting for those nominations to arrive :)",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3528,6 +3568,7 @@
       "campus_lng": -1.249575,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3657,6 +3698,7 @@
       "campus_lng": -1.3114537,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3749,6 +3791,7 @@
       "campus_lng": -3.1889932,
       "scholarship": "",
       "notes": "For 2026-2027, we estimate that it will cost an average of £1,546 each month to live in Edinburgh as a single undergraduate student. This equates to £13,914 for a 39-week academic year. This amount does not include study costs and will likely rise each year with inflation.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3820,6 +3863,7 @@
       "campus_lng": -0.1288676,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued around February–March, after the December term-end and January assignments.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3949,6 +3993,7 @@
       "campus_lng": -0.0393136,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4070,6 +4115,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4141,6 +4187,7 @@
       "campus_lng": -0.3032181,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4354,6 +4401,7 @@
       "campus_lng": -0.0900021,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself via the GradIntel platform (gradintel.com).",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4487,6 +4535,7 @@
       "campus_lng": -1.5721956,
       "scholarship": "Y",
       "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4736,6 +4785,7 @@
       "campus_lng": 8.7298072,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4803,6 +4853,7 @@
       "campus_lng": 6.5809499,
       "scholarship": "",
       "notes": "During the spring term, Lausanne city hosts the prestigious Prix de Lausanne ballet competition from 31 January to 7 February 2027 at the Théâtre de Beaulieu - one of the city's cultural highlights!",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4870,6 +4921,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -4945,6 +4997,7 @@
       "campus_lng": 7.5752961,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5016,6 +5069,7 @@
       "campus_lng": 17.6294616,
       "scholarship": "",
       "notes": "In 2027 Uppsala University celebrates its 550th anniversary - a milestone year to join one of the world's oldest universities!",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5091,6 +5145,7 @@
       "campus_lng": 11.9589874,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5162,6 +5217,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5233,6 +5289,7 @@
       "campus_lng": 14.1457312,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5300,6 +5357,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5367,6 +5425,7 @@
       "campus_lng": -1.6585695,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5480,6 +5539,7 @@
       "campus_lng": -3.7248801,
       "scholarship": "",
       "notes": "UC3M welcomes a large number of exchange students and offers an extensive selection of courses taught in English.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5560,6 +5620,7 @@
       "campus_lng": -4.1186861,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5631,6 +5692,7 @@
       "campus_lng": 2.1062607,
       "scholarship": "",
       "notes": "The Autonomous University of Barcelona sits a short train ride from central Barcelona, where the Sagrada Família - completed after some 144 years of construction - is well worth a visit during your exchange!",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5768,6 +5830,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5835,6 +5898,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "ISEP (International Student Exchange Program) is not a single university but a global non-profit network of around 300 universities. Through ISEP you list several preferred host universities and are placed at the best available option according to space and your academic profile; Yonsei students are guaranteed a placement within their top three choices, provided they meet the academic requirements. Restricted study areas and the language of instruction vary by host university, and some options require the host to run on a semester system. Please consult OIA and the ISEP host list when applying.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5893,6 +5957,7 @@
       "campus_lng": 10.7227683,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5960,6 +6025,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "Student housing is guaranteed for first-time exchange students through Sammen. Housing is not guaranteed to be on campus, but will be either on campus or within Bergen with good public transit connections.",
+      "transcript_info": "You download it yourself, or request it by email.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6073,6 +6139,7 @@
       "campus_lng": 4.8651882,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6190,6 +6257,7 @@
       "campus_lng": 6.5629863,
       "scholarship": "",
       "notes": "The fall semester starts in September and ends at the end of January. The spring semester starts in February and finishes in mid-July.",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6261,6 +6329,7 @@
       "campus_lng": 4.8898042,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6374,6 +6443,7 @@
       "campus_lng": 5.6884711,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6486,6 +6556,7 @@
       "campus_lng": 5.0435985,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6607,6 +6678,7 @@
       "campus_lng": 4.3245363,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6678,6 +6750,7 @@
       "campus_lng": 5.8634329,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6859,6 +6932,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -6984,6 +7058,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7055,6 +7130,7 @@
       "campus_lng": 4.4597028,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7126,6 +7202,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7235,6 +7312,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7306,6 +7384,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7377,6 +7456,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7506,6 +7586,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "A single semester is possible in either fall or spring; a full year can only start in fall.\nVirtual campus experience: https://www.eur.nl/en/education/study-rotterdam/virtual-experience\nCourses and registration: https://www.eur.nl/en/ese/exchange/visiting-students/during-your-exchange/courses-and-registration\nStudy in Rotterdam: https://www.eur.nl/en/education/study-rotterdam",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7623,6 +7704,7 @@
       "campus_lng": 23.9126526,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7736,6 +7818,7 @@
       "campus_lng": 11.354457,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7845,6 +7928,7 @@
       "campus_lng": 12.4941045,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -7974,6 +8058,7 @@
       "campus_lng": -6.2544278,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8083,6 +8168,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8228,6 +8314,7 @@
       "campus_lng": 9.0712444,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You request it directly from the host (by form or email).",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8299,6 +8386,7 @@
       "campus_lng": 9.9753758,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8366,6 +8454,7 @@
       "campus_lng": 6.0689207,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8491,6 +8580,7 @@
       "campus_lng": 8.7166981,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8570,6 +8660,7 @@
       "campus_lng": 11.5798356,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8679,6 +8770,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You request it directly from the host (by form or email).",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8816,6 +8908,7 @@
       "campus_lng": 13.3929202,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8916,6 +9009,7 @@
       "campus_lng": 8.6692402,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -8987,6 +9081,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9099,6 +9194,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9166,6 +9262,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9291,6 +9388,7 @@
       "campus_lng": 2.3462348,
       "scholarship": "",
       "notes": "Spring program option: calendar-year students may start in the spring semester. However, the CROUS residence is closed during the summer break (July and August), so housing is provided for two separate terms with no possibility of staying during the summer.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9412,6 +9510,7 @@
       "campus_lng": 2.3455085,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9483,6 +9582,7 @@
       "campus_lng": -0.6173657,
       "scholarship": "Y",
       "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9607,6 +9707,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9708,6 +9809,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9775,6 +9877,7 @@
       "campus_lng": 4.8759894,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9850,6 +9953,7 @@
       "campus_lng": 2.3290212,
       "scholarship": "",
       "notes": "Sciences Po’s undergraduate college comprises seven campuses, and our exchange agreement covers the entire college, not only Paris.\n\nSciences Po is currently facing capacity constraints in Paris due to the growing number of exchange students. In addition, the undergraduate program in Paris is taught entirely in French, whereas in Reims, it is fully taught in English. As a result, we unfortunately may not accommodate students who need courses in English on the Paris campus.\n\nWe will ask students to indicate two campus choices (Paris or Reims) in their application. The final allocation is based on their academic profile and motivation letter.\n\nWhile the academic quality in Reims and Paris is identical, we truly believe that the student experience at the undergraduate level can be even more enriching on our regional campuses.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9921,6 +10025,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -9992,6 +10097,7 @@
       "campus_lng": 25.735787,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10063,6 +10169,7 @@
       "campus_lng": 25.01767,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10168,6 +10275,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10243,6 +10351,7 @@
       "campus_lng": 24.8236392,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10392,6 +10501,7 @@
       "campus_lng": 12.572327,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10463,6 +10573,7 @@
       "campus_lng": 10.2026177,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10534,6 +10645,7 @@
       "campus_lng": 9.9753082,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10663,6 +10775,7 @@
       "campus_lng": 4.6132341,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10796,6 +10909,7 @@
       "campus_lng": 4.4046263,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "You download it yourself from the host's online system.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10863,6 +10977,7 @@
       "campus_lng": 3.7108831,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -10980,6 +11095,7 @@
       "campus_lng": 16.4082366,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "Issued by the host on request and sent to the Yonsei OIA; you receive it through our office.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11093,6 +11209,7 @@
       "campus_lng": 16.3606855,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11222,6 +11339,7 @@
       "campus_lng": 153.0111536,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11293,6 +11411,7 @@
       "campus_lng": 105.9460279,
       "scholarship": "Y",
       "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11364,6 +11483,7 @@
       "campus_lng": 101.6566603,
       "scholarship": "Y",
       "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11435,6 +11555,7 @@
       "campus_lng": 29.0738014,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11515,6 +11636,7 @@
       "campus_lng": 28.9581685,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11586,6 +11708,7 @@
       "campus_lng": 145.0441466,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11662,6 +11785,7 @@
       "campus_lng": 145.1149474,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11733,6 +11857,7 @@
       "campus_lng": 115.8974683,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11804,6 +11929,7 @@
       "campus_lng": 174.7737331,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11875,6 +12001,7 @@
       "campus_lng": 151.1894111,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -11946,6 +12073,7 @@
       "campus_lng": 103.9650689,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12022,6 +12150,7 @@
       "campus_lng": 100.5885491,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12098,6 +12227,7 @@
       "campus_lng": 175.3167665,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12178,6 +12308,7 @@
       "campus_lng": 170.5146149,
       "scholarship": "",
       "notes": "Normally students are required to have a minimum B average grade (70%) to gain admission to the University.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12254,6 +12385,7 @@
       "campus_lng": 151.6444845,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12325,6 +12457,7 @@
       "campus_lng": 115.7978755,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12401,6 +12534,7 @@
       "campus_lng": 138.5911348,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12485,6 +12619,7 @@
       "campus_lng": 144.9586743,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12569,6 +12704,7 @@
       "campus_lng": 153.384692,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12645,6 +12781,7 @@
       "campus_lng": 153.0240747,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12716,6 +12853,7 @@
       "campus_lng": 103.8500437,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12788,6 +12926,7 @@
       "campus_lng": 103.7766186,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12864,6 +13003,7 @@
       "campus_lng": 103.6829332,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -12936,6 +13076,7 @@
       "campus_lng": 139.5900454,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13007,6 +13148,7 @@
       "campus_lng": 139.7197213,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13083,6 +13225,7 @@
       "campus_lng": 139.6414098,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13159,6 +13302,7 @@
       "campus_lng": 139.5204339,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13239,6 +13383,7 @@
       "campus_lng": 139.9362283,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13315,6 +13460,7 @@
       "campus_lng": 127.7641583,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13382,6 +13528,7 @@
       "campus_lng": 139.7321744,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13462,6 +13609,7 @@
       "campus_lng": 135.726647,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13534,6 +13682,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13614,6 +13763,7 @@
       "campus_lng": 139.7030216,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13685,6 +13835,7 @@
       "campus_lng": 139.7625818,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13756,6 +13907,7 @@
       "campus_lng": 136.9677806,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13827,6 +13979,7 @@
       "campus_lng": 139.6804514,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13898,6 +14051,7 @@
       "campus_lng": 139.7307348,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -13974,6 +14128,7 @@
       "campus_lng": 130.4444986,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14045,6 +14200,7 @@
       "campus_lng": 135.7814382,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14121,6 +14277,7 @@
       "campus_lng": 135.3469101,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14197,6 +14354,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14277,6 +14435,7 @@
       "campus_lng": 135.760637,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14348,6 +14507,7 @@
       "campus_lng": 139.4045306,
       "scholarship": "",
       "notes": "Please note that application deadlines for Graduate-level students are earlier than those for Undergraduate(UG) students.\n\nFall Semester: March 30 (UG: 4.30)\nSpring Semester: September 30 (UG: 10.31)",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14420,6 +14580,7 @@
       "campus_lng": 139.7104162,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14492,6 +14653,7 @@
       "campus_lng": 140.1982904,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14572,6 +14734,7 @@
       "campus_lng": 139.7415002,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14652,6 +14815,7 @@
       "campus_lng": 121.52973,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14728,6 +14892,7 @@
       "campus_lng": 120.9924295,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14800,6 +14965,7 @@
       "campus_lng": 121.5384571,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14872,6 +15038,7 @@
       "campus_lng": 120.2662241,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -14944,6 +15111,7 @@
       "campus_lng": 121.5749593,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15020,6 +15188,7 @@
       "campus_lng": 120.2162155,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15091,6 +15260,7 @@
       "campus_lng": 114.1378586,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15167,6 +15337,7 @@
       "campus_lng": 114.1796935,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15239,6 +15410,7 @@
       "campus_lng": 114.2079145,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15310,6 +15482,7 @@
       "campus_lng": 114.1697162,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15386,6 +15559,7 @@
       "campus_lng": 120.7195312,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15457,6 +15631,7 @@
       "campus_lng": 119.6376144,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15528,6 +15703,7 @@
       "campus_lng": 116.320963,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15600,6 +15776,7 @@
       "campus_lng": 113.4790189,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15676,6 +15853,7 @@
       "campus_lng": 114.207366,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15752,6 +15930,7 @@
       "campus_lng": 116.1593872,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15828,6 +16007,7 @@
       "campus_lng": 118.7740883,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15904,6 +16084,7 @@
       "campus_lng": 121.4974703,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -15975,6 +16156,7 @@
       "campus_lng": 116.359724,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16046,6 +16228,7 @@
       "campus_lng": -97.1102906,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16113,6 +16296,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "This is the Visiting Student Program offered through the Study Abroad Foundation (SAF), not a single university. SAF is a consortium that places students as visiting, non-degree students at partner universities (more than 65 institutions in over 20 countries), with one-on-one counselling support. Eligibility, available courses, and requirements depend on the host university you choose, so please review each host university's requirements and consult OIA when selecting a program.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16171,6 +16355,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "GE3 (Global Engineering Education Exchange) is not a single university but a global consortium of engineering schools administered by the Institute of International Education (IIE), with around 70 member universities in more than 20 countries. It is open to undergraduate engineering students only. Through GE3 you study for a semester or a full year at a member university abroad while continuing to pay tuition at Yonsei. The available host universities and their course offerings vary, so please review the GE3 member list and consult OIA when choosing a destination.",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16229,6 +16414,7 @@
       "campus_lng": -76.7220509,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16300,6 +16486,7 @@
       "campus_lng": -122.4874638,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16371,6 +16558,7 @@
       "campus_lng": -90.3084017,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16442,6 +16630,7 @@
       "campus_lng": -76.0692567,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16509,6 +16698,7 @@
       "campus_lng": -80.2413496,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16576,6 +16766,7 @@
       "campus_lng": -89.4309587,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16643,6 +16834,7 @@
       "campus_lng": -122.3001692,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16714,6 +16906,7 @@
       "campus_lng": -77.628784,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16781,6 +16974,7 @@
       "campus_lng": -77.5412837,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16848,6 +17042,7 @@
       "campus_lng": -79.962461,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16919,6 +17114,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -16986,6 +17182,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17053,6 +17250,7 @@
       "campus_lng": -123.0717603,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17120,6 +17318,7 @@
       "campus_lng": -86.2382203,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17191,6 +17390,7 @@
       "campus_lng": -79.8105812,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17262,6 +17462,7 @@
       "campus_lng": -79.0477533,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17333,6 +17534,7 @@
       "campus_lng": -83.7100389,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17400,6 +17602,7 @@
       "campus_lng": -80.2787069,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17467,6 +17670,7 @@
       "campus_lng": -72.5283614,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17534,6 +17738,7 @@
       "campus_lng": -76.9438586,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17601,6 +17806,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17672,6 +17878,7 @@
       "campus_lng": -157.8186932,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17739,6 +17946,7 @@
       "campus_lng": -83.373049,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17810,6 +18018,7 @@
       "campus_lng": -82.3562296,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17877,6 +18086,7 @@
       "campus_lng": -72.2647704,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -17944,6 +18154,7 @@
       "campus_lng": -117.3474449,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18015,6 +18226,7 @@
       "campus_lng": -73.8218534,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18086,6 +18298,7 @@
       "campus_lng": -76.6185804,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18157,6 +18370,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18228,6 +18442,7 @@
       "campus_lng": -97.1120213,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18295,6 +18510,7 @@
       "campus_lng": -83.0286573,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18362,6 +18578,7 @@
       "campus_lng": -75.1562828,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18433,6 +18650,7 @@
       "campus_lng": -76.1185536,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18504,6 +18722,7 @@
       "campus_lng": -71.0610578,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18571,6 +18790,7 @@
       "campus_lng": -73.1205518,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18642,6 +18862,7 @@
       "campus_lng": -77.4795421,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18713,6 +18934,7 @@
       "campus_lng": -86.9264211,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18780,6 +19002,7 @@
       "campus_lng": -123.2839234,
       "scholarship": "",
       "notes": "U: 2.65/4.3, \nG: 3.15/4.3",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18851,6 +19074,7 @@
       "campus_lng": -76.3097248,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18922,6 +19146,7 @@
       "campus_lng": -97.0890651,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -18993,6 +19218,7 @@
       "campus_lng": -71.0892575,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19060,6 +19286,7 @@
       "campus_lng": -88.1427492,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19131,6 +19358,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19202,6 +19430,7 @@
       "campus_lng": -73.9950148,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19269,6 +19498,7 @@
       "campus_lng": -111.079277,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19340,6 +19570,7 @@
       "campus_lng": -84.4803869,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19407,6 +19638,7 @@
       "campus_lng": -83.6506702,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19474,6 +19706,7 @@
       "campus_lng": -123.1981384,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19541,6 +19774,7 @@
       "campus_lng": -76.9871974,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19608,6 +19842,7 @@
       "campus_lng": -84.3988077,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19675,6 +19910,7 @@
       "campus_lng": -77.0474485,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19742,6 +19978,7 @@
       "campus_lng": -77.3079884,
       "scholarship": "",
       "notes": "U: 2.9/4.3, \nG: 3.4/4.3",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19813,6 +20050,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19876,6 +20114,7 @@
       "campus_lng": -84.3172378,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -19947,6 +20186,7 @@
       "campus_lng": -76.4800635,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20018,6 +20258,7 @@
       "campus_lng": -75.5395816,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20085,6 +20326,7 @@
       "campus_lng": -81.6007022,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20156,6 +20398,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20219,6 +20462,7 @@
       "campus_lng": -111.9331631,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20286,6 +20530,7 @@
       "campus_lng": -72.5160692,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20357,6 +20602,7 @@
       "campus_lng": -77.0894641,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20428,6 +20674,7 @@
       "campus_lng": -100.4210975,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20495,6 +20742,7 @@
       "campus_lng": -116.923959,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20562,6 +20810,7 @@
       "campus_lng": -80.5452429,
       "scholarship": "",
       "notes": "70% on 100% scale",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20633,6 +20882,7 @@
       "campus_lng": -73.580417,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20704,6 +20954,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20771,6 +21022,7 @@
       "campus_lng": -97.1617229,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20838,6 +21090,7 @@
       "campus_lng": -114.138805,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20909,6 +21162,7 @@
       "campus_lng": -113.5244937,
       "scholarship": "",
       "notes": "2.9/4.3, Business: 3.2/4.3, Engineering: 3.4/4.3",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -20980,6 +21234,7 @@
       "campus_lng": -123.1086406,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -21051,6 +21306,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -21118,6 +21374,7 @@
       "campus_lng": -122.917803,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -21189,6 +21446,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -21260,6 +21518,7 @@
       "campus_lng": null,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -21331,6 +21590,7 @@
       "campus_lng": -81.2786116,
       "scholarship": "",
       "notes": "",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -21402,6 +21662,7 @@
       "campus_lng": -79.2498568,
       "scholarship": "Y",
       "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.\n\nLocated about 1 hour from Toronto and just 15 minutes from Niagara Falls — many students take weekend trips to New York\n~9,000 students; affordable cost of living compared to Toronto\nStudent fees consist of a Health Care Fee (CAD $66) and a bus pass only\nHome to an on-campus winery producing icewine; wine-related courses are open to all students with no prerequisites required\n150+ student clubs; diverse and inclusive campus community\nExperiential Learning courses offered across programs\nExcellent support services for students with disabilities and mental health challenges — students requiring additional care are encouraged to apply",
+      "transcript_info": "",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
