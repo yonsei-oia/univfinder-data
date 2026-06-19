@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T00:14:23.250196Z",
+  "generated_at": "2026-06-19T01:24:44.749332Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -2957,7 +2957,7 @@
       "campus_lng": -1.555111,
       "scholarship": "",
       "notes": "",
-      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office. Transcripts usually arrive in August for spring and in March for fall.",
+      "transcript_info": "Issued by the host and sent to the Yonsei OIA; you receive it through our office. **IMPORTANT** Spring-term transcripts are not issued until July (see https://www.leeds.ac.uk/incomingexamsandtranscripts); fall transcripts usually arrive in March.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -3568,7 +3568,7 @@
       "campus_lng": -1.249575,
       "scholarship": "",
       "notes": "",
-      "transcript_info": "Transcripts usually arrive around October for spring and in March for fall.",
+      "transcript_info": "Transcripts usually arrive around October for spring and in March for fall. Nottingham sends an electronic official transcript to the Yonsei OIA after studies.",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
@@ -5297,7 +5297,7 @@
         "why_yonsei": "Kristianstad University suits Yonsei students looking for an English-taught exchange in Sweden, with course options in business, computer science and the humanities, plus dedicated courses on Swedish culture and society. Exchange placements are typically one to two semesters. Course lists are released in advance: autumn-semester courses are presented from March 1 and spring-semester courses from September 1, so students should plan their selection accordingly.",
         "campus_location": "The university is located in Kristianstad, a town in the Skane region of southern Sweden. The setting offers a compact campus in a smaller Swedish town within reach of the wider Skane region.",
         "accommodation": "",
-        "student_tips": "",
+        "student_tips": "2026 파견생 기록 — 날짜·기숙사 옵션·금액은 학기마다 달라질 수 있습니다.",
         "academic_requirements": "",
         "useful_links": [
           {
@@ -5307,9 +5307,30 @@
           {
             "label": "Courses in English for exchange students",
             "url": "https://www.hkr.se/en/study-at-hkr/programmes-and-courses/courses-in-english---exchange-students/"
+          },
+          {
+            "label": "Kristianstaduniversity",
+            "url": "https://www.instagram.com/kristianstaduniversity?igsh=MWwyOG9pcGszbTU1dw=="
+          },
+          {
+            "label": "Hkif skane",
+            "url": "https://www.instagram.com/hkif_skane?igsh=MXR6NWduenlhdzJvcg=="
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "Welcome to Kristianstad University",
+            "url": "https://youtu.be/r1mjh5-DUCA?si=OH490xtbB1aomYKD"
+          },
+          {
+            "label": "Welcome to Kristianstad University",
+            "url": "https://youtu.be/0FddIVX7qh4?si=AHTK21_AXQdAQDI8"
+          },
+          {
+            "label": "See our campus - Kristianstad University",
+            "url": "https://youtu.be/l695y4iCo2g?si=nJrfmPRzcXPvXmKa"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }
