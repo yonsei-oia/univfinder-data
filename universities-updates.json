@@ -7,7 +7,33 @@
       "kind": "added",
       "changes": [],
       "note": null
+    },
+    {
+      "slug": "uic-exclusive-the-university-of-hong-kong-faculty-of-arts",
+      "date": "2026-06-22",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "available_areas",
+          "from": "Faculty of Arts\n https://aal.hku.hk/studyabroad/support.php?pid=4&type=incoming",
+          "to": "Faculty of Arts\nhttps://arts.hku.hk/current-students/undergraduate/incoming-exchange/"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "uic-exclusive-dartmouth-college",
+      "date": "2026-06-22",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "04/15",
+          "to": "04/26"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-06-21T22:39:45.200421+00:00"
+  "generated_at": "2026-06-22T02:19:55.901415+00:00"
 }
