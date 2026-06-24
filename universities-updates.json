@@ -46,7 +46,90 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "uic-exclusive-barnard-college",
+      "date": "2026-06-24",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "available_areas",
+          "from": "",
+          "to": "You will not register for courses until you arrive on campus in January. Courses which VISP students are eligible to take while at Barnard include:\nCourses designated BC, UN, C, R, V, and W\nCourses numbered from 1000 through 4999\nStudents may not register for more than two Business courses\nPlease note that you are welcome to search for courses(http://www.columbia.edu/cu/bulletin/uwb/) but you should plan to work closely with your academic advisor during Orientation to put together an appropriate program."
+        },
+        {
+          "field": "restricted_areas",
+          "from": "Business / Engineering",
+          "to": "classes in Journalism, Law, Engineering (except for \"The Art of Engineering\")\nundergraduate students may not enroll in graduate school courses."
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "uic-exclusive-swinburne-university-of-technology",
+      "date": "2026-06-24",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "available_areas",
+          "from": "https://www.swinburne.edu.au/courses/",
+          "to": "Swinburne University of Technology offers exchange students access to its full range of undergraduate and postgraduate courses. Students can take 3 or 4 units (37.5 to 50 credit points) per semester across multiple study areas, provided they meet the specific prerequisites for the course.\nhttps://www.swinburne.edu.au/courses/"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "uic-exclusive-wellesley-college",
+      "date": "2026-06-24",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "available_areas",
+          "from": "",
+          "to": "https://catalog.wellesley.edu/landing.php"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "uic-exclusive-dartmouth-college",
+      "date": "2026-06-24",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "available_areas",
+          "from": "",
+          "to": "Exchange students may register for undergraduate courses in any department. Students take three classes per term. \nhttps://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "the-university-of-nottingham",
+      "date": "2026-06-24",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 8,
+          "to": 2
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "university-of-geneva",
+      "date": "2026-06-24",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 1,
+          "to": 2
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-06-23T22:47:38.879468+00:00"
+  "generated_at": "2026-06-24T19:30:53.882072+00:00"
 }
