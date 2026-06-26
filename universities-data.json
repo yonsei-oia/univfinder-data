@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:51:46.547666Z",
+  "generated_at": "2026-06-26T19:41:17.412161Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -17172,7 +17172,7 @@
       "country": "United States",
       "language_of_instruction_1": "English",
       "language_of_instruction_2": "",
-      "quota": 4,
+      "quota": 5,
       "quota_unit": "slot",
       "accepts_undergrad": "Y",
       "accepts_grad": "",

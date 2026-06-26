@@ -129,7 +129,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "university-of-pennsylvania-arts-and-sciences-engineering-and-applied-science",
+      "date": "2026-06-26",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 4,
+          "to": 5
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-06-25T19:51:46.547666+00:00"
+  "generated_at": "2026-06-26T19:41:17.412161+00:00"
 }
