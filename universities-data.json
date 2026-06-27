@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-26T19:41:17.412161Z",
+  "generated_at": "2026-06-27T19:11:48.040728Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
     {
       "slug": "university-of-padua",
       "last_updated": null,
-      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Padua%2C%20portico%20at%20the%20University.jpg",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Th%C3%A9%C3%A2tre-anatomique-Padoue.JPG",
       "cover_image_credit": "Wikimedia Commons",
       "cover_image_kind": "photo",
       "university_name": "University of Padua",
@@ -31,7 +31,7 @@
       "language_other_notes": "Italian-taught courses require A2 Italian.",
       "available_areas": "Open across most Schools (humanities, sciences, engineering, law, economics, psychology, political and statistical sciences).",
       "restricted_areas": "",
-      "admission_notes": "Exchange students select courses from the course catalogue (https://unipd.coursecatalogue.cineca.it/).\n\nNominated exchange students only (no free-movers). English-taught courses require B1 English; Italian-taught courses require A2 (TOEFL, IELTS, Cambridge, or Duolingo accepted). Application is completed online via Service4Mobility Online.",
+      "admission_notes": "Exchange students select courses from the course catalogue (https://unipd.coursecatalogue.cineca.it/)\nNominated exchange students only (no free-movers). English-taught courses require B1 English; Italian-taught courses require A2 (TOEFL, IELTS, Cambridge, or Duolingo accepted). Application is completed online via Service4Mobility Online.",
       "fall_nomination_deadline": "04/30",
       "fall_application_deadline": "05/15",
       "spring_nomination_deadline": "10/15",
@@ -39,7 +39,7 @@
       "academic_calendar": "https://www.unipd.it/en/scadenze-calendario-accademico",
       "housing_info": "https://www.unipd.it/en/alloggio-accordi-bilaterali (First-come-first-served, limited)\n\nUniversity halls are limited and not guaranteed; non-EU students who need a visa receive first-round priority, with rooms assigned in order of request. Rent is €290–420 per month plus a €380 booking fee. Private rooms are available through HousingAnywhere.",
       "housing_guaranteed": "Partial",
-      "recent_factsheet": "https://storage.tally.so/private/Factsheet_Bilateral-Agreements_Ulisse_26_27.pdf?id=P4L8Z0&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlA0TDhaMCIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc3OTc4NzQ1N30.1Rk-Ek40g35J2gGsBek9OKxrqZs9vquBRSNkNmmh5yU&signature=644a9dc44fd4893a85101e7ca4a4c1adb3add45efb093b7c50192a79e7b9da94",
+      "recent_factsheet": "https://drive.google.com/file/d/1qxKfwtwuaZiN1fex1xC8VHJHYaPcpSAo/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "campus_lat": 45.4066496,
@@ -10365,7 +10365,7 @@
       "academic_calendar": "https://www.aalto.fi/en/student-guide/academic-calendar",
       "housing_info": "https://www.aalto.fi/en/international-students/housing-for-exchange-students",
       "housing_guaranteed": "No",
-      "recent_factsheet": "https://storage.tally.so/private/Aalto-BIZ-Fact-Sheet-2026-2027.pdf?id=AWjAEz&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkFXakFFeiIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc2NDU5NjMyNX0.9Iq2UO9EVMrDT46ciGmGHKtyoQHCvTEbQs9zWynq-n8&signature=022410452bd91c50a54a8a0916082de4f9407d39cc11915ede5cc37058f80fbb",
+      "recent_factsheet": "https://drive.google.com/file/d/15oN4O5qy_pAZazunqka5vhD53iqtou3d/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "campus_lat": 60.1859118,
@@ -10425,6 +10425,18 @@
           }
         ],
         "video_links": [
+          {
+            "label": "Exchange studies at Aalto University School of Business",
+            "url": "https://www.youtube.com/watch?v=ufWML_l7594"
+          },
+          {
+            "label": "Exchange Studies at Aalto University School of Business",
+            "url": "https://www.youtube.com/watch?v=fixkT1iUTiY"
+          },
+          {
+            "label": "Aalto University School of Business: Better Business – Better Society",
+            "url": "https://www.youtube.com/watch?v=tK5Pbg1bwz4"
+          },
           {
             "label": "Welcome to Aalto University campus!",
             "url": "https://youtu.be/Rc7lhmaFYc0"
