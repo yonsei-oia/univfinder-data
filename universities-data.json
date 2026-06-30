@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T11:49:45.897822Z",
+  "generated_at": "2026-06-30T14:35:46.165042Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -374,7 +374,12 @@
             "url": "https://www.herts.ac.uk/__data/assets/pdf_file/0008/257039/UH-Study-Abroad-Factsheet-2019-2020.pdf"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "Welcome to Herts",
+            "url": "http://youtube.com/watch?v=zqCM94vZD9U"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }
@@ -3270,7 +3275,7 @@
         "video_links": [
           {
             "label": "My Study Abroad – Incoming experience at the University of Birmingham",
-            "url": "https://youtu.be/3wInw-cwyPg"
+            "url": "http://youtu.be/3wInw-cwyPg"
           },
           {
             "label": "WE ARE BIRMINGHAM",
@@ -3751,9 +3756,9 @@
     {
       "slug": "the-university-of-edinburgh",
       "last_updated": null,
-      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Edinburgh%20Old%20College%20campus%20encampment%2004.jpg",
-      "cover_image_credit": "Wikimedia Commons",
-      "cover_image_kind": "photo",
+      "cover_image_url": "https://oiaunivfinder.netlify.app/assets/edinburgh-logo.png",
+      "cover_image_credit": "University of Edinburgh",
+      "cover_image_kind": "logo",
       "university_name": "The University of Edinburgh",
       "website": "https://global.ed.ac.uk/study-abroad",
       "continent": "Europe",
@@ -4805,7 +4810,12 @@
             "url": "https://studentservices.uzh.ch/uzh/anonym/vvz/index.html"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "Discover the University of Zurich in 100 seconds",
+            "url": "http://youtube.com/watch?v=_kFexLYRGrA"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }
@@ -5871,7 +5881,12 @@
             "url": "https://ssl-administracja.sgh.waw.pl/en/cpm/international_exchange/incoming_students/Pages/default.aspx"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "Wirtualny spacer po SGH/SGH virtual tour",
+            "url": "http://youtube.com/watch?v=wYiVUVj0a_w"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }
@@ -9943,7 +9958,7 @@
       "country": "France",
       "language_of_instruction_1": "English",
       "language_of_instruction_2": "French",
-      "quota": 2,
+      "quota": 3,
       "quota_unit": "slot",
       "accepts_undergrad": "Y",
       "accepts_grad": "Y",
@@ -15093,6 +15108,10 @@
         ],
         "video_links": [
           {
+            "label": "NSYSU | Be the Best You Can Be",
+            "url": "https://www.youtube.com/watch?v=0Z4wZCwidWc"
+          },
+          {
             "label": "Introduction of National Sun Yat-sen University: A highly research intensive university in Taiwan",
             "url": "https://www.youtube.com/watch?v=JiSaYw6-wI4"
           }
@@ -15467,7 +15486,12 @@
             "url": "https://www.oalglobal.cuhk.edu.hk/files/incoming/course_exceptions.pdf"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "CUHK Student Exchange 2023",
+            "url": "http://youtube.com/watch?v=zDZGcsOYru8"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }
@@ -15834,6 +15858,10 @@
           }
         ],
         "video_links": [
+          {
+            "label": "HKUST Aerial - Campus Drone Tour",
+            "url": "https://www.youtube.com/watch?v=vvoqgumBQjo"
+          },
           {
             "label": "EMPOWERING UNLIMITED POSSIBILITIES",
             "url": "https://www.youtube.com/watch?v=EOAj7SztC14"
@@ -18427,7 +18455,12 @@
             "url": "https://global.utexas.edu/isss/advising-services/student-exchange-program/exchange-partner-fact-sheet"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "UT Student Exchange Programs | Texas Global",
+            "url": "https://youtu.be/-5xWHsz1-Wo"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }
@@ -20727,7 +20760,12 @@
             "url": "https://www.udem.edu.mx/en/study/udem-for-one-semester"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "This is UDEM | Universidad de Monterrey",
+            "url": "https://www.youtube.com/watch?v=U2xfZVhtlBw"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }

@@ -155,7 +155,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "institut-d-etudes-politiques-de-paris",
+      "date": "2026-06-30",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 2,
+          "to": 3
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-06-30T11:49:45.897822+00:00"
+  "generated_at": "2026-06-30T14:35:46.165042+00:00"
 }
