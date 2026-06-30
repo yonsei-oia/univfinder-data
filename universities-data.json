@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T19:50:15.163277Z",
+  "generated_at": "2026-06-30T11:49:45.897822Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -5429,7 +5429,7 @@
       "toefl_subscores": "",
       "lang2_level": "B2",
       "language_other_notes": "Spanish B2",
-      "available_areas": "",
+      "available_areas": "Engineering · Humanities · Education field only",
       "restricted_areas": "",
       "admission_notes": "Both Fall and Spring",
       "fall_nomination_deadline": "03/30",
@@ -5445,7 +5445,7 @@
       "campus_lat": 42.801154,
       "campus_lng": -1.6585695,
       "scholarship": "",
-      "notes": "",
+      "notes": "Open to students in Engineering, Humanities, and Education.",
       "transcript_info": "Transcripts usually arrive around July for spring and around March for fall.",
       "change_note": "",
       "hide_from_students": "N",

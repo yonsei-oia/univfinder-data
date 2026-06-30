@@ -142,7 +142,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "universidad-de-navarra",
+      "date": "2026-06-30",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "available_areas",
+          "from": "",
+          "to": "Engineering · Humanities · Education field only"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-06-29T19:50:15.163277+00:00"
+  "generated_at": "2026-06-30T11:49:45.897822+00:00"
 }
