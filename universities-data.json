@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T19:48:43.432492Z",
+  "generated_at": "2026-07-01T19:46:07.797491Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -15499,8 +15499,8 @@
     {
       "slug": "city-university-of-hong-kong",
       "last_updated": null,
-      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prof%20Wai%20Kit%20Ming%20%26%20Dr%20Edmond%20Fernandes%20after%20a%20bilateral%20meeting%20at%20City%20University%20of%20Hong%20Kong%20in%20Kowloon%20Tong%2C%20Hong%20Kong.jpg",
-      "cover_image_credit": "Wikimedia Commons",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/City%20University%20of%20Hong%20Kong%20main%20courtyard.jpg?width=2000-cover_image_kind=photo",
+      "cover_image_credit": "PrzemekJaczewski / Wikimedia Commons (CC BY-SA 4.0)",
       "cover_image_kind": "photo",
       "university_name": "City University of Hong Kong",
       "website": "http://www.cityu.edu.hk/geo",
