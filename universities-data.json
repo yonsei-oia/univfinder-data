@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:02:38.828817Z",
+  "generated_at": "2026-07-05T19:07:59.584628Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -4676,16 +4676,20 @@
             "url": "https://www.durham.ac.uk/"
           },
           {
+            "label": "Thedurhamstudent",
+            "url": "https://www.instagram.com/thedurhamstudent/"
+          },
+          {
+            "label": "Self guided tours",
+            "url": "https://www.durham.ac.uk/visit-us/open-days/self-guided-tours/"
+          },
+          {
             "label": "All the information about the location (campus) as well as surrounding areas of interest has also been graciously presented on Durham University’s website. They also include directions and recommended transport options!",
             "url": "https://www.durham.ac.uk/visit-us/location/"
           },
           {
             "label": "Virtual tour",
             "url": "https://www.durham.ac.uk/business/about/virtual-tour/"
-          },
-          {
-            "label": "self-guided tours",
-            "url": "https://www.durham.ac.uk/visit-us/open-days/self-guided-tours/"
           },
           {
             "label": "SVxYFejteYX5ZRmH9",
@@ -4720,6 +4724,10 @@
           {
             "label": "Durham 2025",
             "url": "https://youtu.be/IhJMYb37DGk?si=s7vTXxSe3Uzwjme0"
+          },
+          {
+            "label": "Durham University International",
+            "url": "https://www.youtube.com/watch?app=desktop&v=IhDaSKWEzwA"
           }
         ],
         "gallery_urls": [],
