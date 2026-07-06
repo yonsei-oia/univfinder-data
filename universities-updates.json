@@ -248,7 +248,21 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "tunghai-university",
+      "date": "2026-07-06",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "nanzan-university",
+      "date": "2026-07-06",
+      "kind": "added",
+      "changes": [],
+      "note": null
     }
   ],
-  "generated_at": "2026-07-06T01:19:14.631306+00:00"
+  "generated_at": "2026-07-06T08:27:56.368998+00:00"
 }
