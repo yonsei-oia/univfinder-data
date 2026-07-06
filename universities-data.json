@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T08:42:54.092366Z",
+  "generated_at": "2026-07-06T19:48:39.146684Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -818,7 +818,7 @@
       "country": "France",
       "language_of_instruction_1": "English",
       "language_of_instruction_2": "French",
-      "quota": 1,
+      "quota": 4,
       "quota_unit": "slot",
       "accepts_undergrad": "Y",
       "accepts_grad": "Y",
@@ -9838,7 +9838,7 @@
       "country": "France",
       "language_of_instruction_1": "",
       "language_of_instruction_2": "French",
-      "quota": 7,
+      "quota": 5,
       "quota_unit": "slot",
       "accepts_undergrad": "Y",
       "accepts_grad": "Y",

@@ -262,7 +262,33 @@
       "kind": "added",
       "changes": [],
       "note": null
+    },
+    {
+      "slug": "sorbonne-university-faculty-of-science-and-engineering",
+      "date": "2026-07-06",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 1,
+          "to": 4
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "sorbonne-university-faculty-of-letters",
+      "date": "2026-07-06",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 7,
+          "to": 5
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-07-06T08:42:54.092366+00:00"
+  "generated_at": "2026-07-06T19:48:39.146684+00:00"
 }
