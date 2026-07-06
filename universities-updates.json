@@ -168,7 +168,87 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "chalmers-university-of-technology",
+      "date": "2026-07-06",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "accepts_undergrad",
+          "from": "N",
+          "to": "Y"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "uic-exclusive-swinburne-university-of-technology",
+      "date": "2026-07-06",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "language_other_notes",
+          "from": "",
+          "to": "※ Australian universities may accept standard TOEFL iBT scores for admission purposes; however, English language requirements for an Australian Student Visa are separately determined by the Australian Department of Home Affairs (DHA).\n\nAs the final decision on visa eligibility follows DHA requirements, students without a TOEFL iBT Australia score may face difficulties in obtaining a Student Visa."
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "universidad-de-navarra",
+      "date": "2026-07-06",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "language_other_notes",
+          "from": "Spanish B2",
+          "to": "Spanish B2 required for Spanish-taught courses, to be demonstrated during the admission process. To take Spanish language courses, you must have taken the placement test and be enrolled in the correct level."
+        },
+        {
+          "field": "available_areas",
+          "from": "Engineering · Humanities · Education field only",
+          "to": "Engineering · Humanities · Education field only - You may take courses from other schools if available."
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "study-abroad-foundation-vsp-visiting-student-program",
+      "date": "2026-07-06",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_subscores",
+          "from": "Requirements may differ by university. Students can look at the requirements of hosting universities at: https://iesabroad.ent.box.com/s/dubm70obgnnj0m2wznicqd2ubczxjxrx",
+          "to": "Requirements may differ by university. Students can look at the requirements of hosting universities at: https://iesabroad.ent.box.com/s/kebqf6wvn3qywrp7zu7shuqorrnfqdr8"
+        },
+        {
+          "field": "available_areas",
+          "from": "Students can look at the requirements of hosting universities at https://iesabroad.ent.box.com/s/s1iag4rmiyutls7shzgnjit1darhtroz\nRequirements may differ by university.",
+          "to": "Students can look at the requirements of hosting universities at https://iesabroad.ent.box.com/s/kebqf6wvn3qywrp7zu7shuqorrnfqdr8\nRequirements may differ by university."
+        },
+        {
+          "field": "restricted_areas",
+          "from": "Students can look at the requirements of hosting universities at https://iesabroad.ent.box.com/s/s1iag4rmiyutls7shzgnjit1darhtroz\nRequirements may differ by university.",
+          "to": "Students can look at the requirements of hosting universities at https://iesabroad.ent.box.com/s/kebqf6wvn3qywrp7zu7shuqorrnfqdr8\nRequirements may differ by university."
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "university-of-richmond",
+      "date": "2026-07-06",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 8,
+          "to": 4
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-07-05T19:07:59.584628+00:00"
+  "generated_at": "2026-07-06T01:19:14.631306+00:00"
 }
