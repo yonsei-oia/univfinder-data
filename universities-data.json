@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:48:39.146684Z",
+  "generated_at": "2026-07-07T19:47:55.232475Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -4616,264 +4616,6 @@
       }
     },
     {
-      "slug": "durham-university",
-      "last_updated": null,
-      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Durham_arms.svg",
-      "cover_image_credit": "Wikimedia Commons",
-      "cover_image_kind": "logo",
-      "university_name": "Durham University",
-      "website": "https://www.durham.ac.uk/global-durham/global-opportunities/incoming-opportunities/",
-      "continent": "Europe",
-      "country": "United Kingdom",
-      "language_of_instruction_1": "English",
-      "language_of_instruction_2": "",
-      "quota": 2,
-      "quota_unit": "person",
-      "accepts_undergrad": "Y",
-      "accepts_grad": "N",
-      "gpa_required": 3.0,
-      "fall_one_semester": "N",
-      "fall_calendar_year": "Y",
-      "spring_one_semester": "N",
-      "spring_calendar_year": "Y",
-      "academic_system": "Other",
-      "toefl_total": 92,
-      "toefl_subscores": "No component under 23",
-      "lang2_level": "",
-      "language_other_notes": "",
-      "available_areas": "",
-      "restricted_areas": "None",
-      "admission_notes": "https://www.durham.ac.uk/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/apply/\n\nFall only",
-      "fall_nomination_deadline": "04/30",
-      "fall_application_deadline": "05/31",
-      "spring_nomination_deadline": "09/30",
-      "spring_application_deadline": "10/31",
-      "academic_calendar": "https://www.dur.ac.uk/academic-dates/",
-      "housing_info": "https://www.durham.ac.uk/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/accommodation/",
-      "housing_guaranteed": "Yes",
-      "recent_factsheet": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Durham-University-Key-Data-Sheet.pdf",
-      "additional_link": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Durham-University-Incoming-Exchanges.pdf",
-      "campus_map_url": "",
-      "campus_lat": 54.7672268,
-      "campus_lng": -1.5721956,
-      "scholarship": "Y",
-      "notes": "Go Abroad Scholarship: KRW 2,000,000 to each student studying at this university for a semester as an exchange student. Recipients must submit promotional materials and an experience report at the end of their exchange.\n\n가을(Fall) 학기만; TOEFL 92(각 영역 23+).\nFall semester only; TOEFL 92 (min 23 each).",
-      "transcript_info": "",
-      "change_note": "",
-      "hide_from_students": "N",
-      "content": {
-        "about_text": "Durham University is a collegiate public research university in Durham, in the northeast of England. It is organised across colleges and academic departments, with incoming students able to study across a broad range of subjects. The language of instruction is English.",
-        "why_yonsei": "Durham welcomes incoming exchange students from non-European partner universities and teaches entirely in English, so a Yonsei student needs to meet the university's English language requirements rather than learn an additional language. Incoming students typically choose modules from up to three different subject areas across the university's departments, which allows for an interdisciplinary semester. No specific fields are restricted for Yonsei students under this agreement.",
-        "campus_location": "Virtual Campus Tours:\n\nDurham University also offers options for self-guided tours with their app!\n\nGoogle Maps\n\nCampus Map\n\n^ this contains all the information about the different buildings (numbered and arranged in a table)",
-        "accommodation": "Promotional video:\n\nAccommodation is divided into “colleges”, so make sure to take your time and look through the web pages below to research costs, pictures, amenities, etc. better suited to your situation!\n\nPictures of different accommodation options (click the titles for a link to the web page of each accommodation!!):\n\nGeneral info:\n\nHow and when to apply for Durham offered accommodation:\n\nContact information for accommodation related inquiries: colleges.undergrad@durham.ac.uk",
-        "student_tips": "☀️교환대학의 크기, 지리적 위치, 기후 등\n\n“대학 도시인 더럼의 특성상 한국처럼 학교의 경계가 존재하지 않습니다. 더럼이라는 도시 자체가 학교라고 봐야할 만큼 건물들이 도시 곳곳에 퍼져 있습니다. 그러나 워낙 작은 도시여서, 아무리 멀리 떨어져 있는 건물들도 약 15-25분 정도 걸어 가면 되는 위치에 존재합니다. 또 학과마다 주로 쓰는 건물들이 다르기 때문에 듣는 수업에 따라 이동이 잦을 수도 있습니다. 도시 자체는 주변에 녹지가 많고 강이 있어 산책하기 정말 좋습니다.” \n출처: “더럼에서의 1년 (2019-2020)”\n\n“대학교 규모는 작지 않는 정도이며, 위치는 시내에서 가깝습니다 (워낙 작은 도시라서). 또한 주변에 녹지가 많아 산책하기 좋은 캠퍼스입니다. 날씨는 영국의 타지역보다 비가 적게 오는 도시라서 비 걱정은 크게 하지 않아도 될 것 같습니다. 가을부터 봄까지는 해가 매우 빨리 져서 빠를 때는 3시에서 4시 사이에 해가 지기 시작하고 8시 가까이 되어야 해가 뜨지만 여름에는 10시정도 되어야 어두워지고 4시부터 밝아지기 시작합니다. 그러므로 영국은 여름을 끼고 가는 게 좋을 것 같습니다.” \n출처: “영국 소도시 더럼에서의 1년 (2019-2020)”\n\n“Durham University는 영국 북부, 뉴캐슬과 에딘버러 근처에 위치해있는 소도시인 Durham에 위치한 대학교로, 약 18031명의 학생이 다니고 있는 대학교입니다. 영국 북부에 위치한만큼, 서부에 비해서는 날씨가 춥고, 비도 자주 오는 지역으로, 전형적인 북부 날씨를 가진 지역입니다. 자연환경이 잘 갖춰있고, 도시내 큰 강과 다리가 있습니다.” \n출처: “Durham University에서의 1년 (2017-2018)”\n\n🏞️ 대학 주변 환경\n\n“학생 도시인만큼 학교 건물 외에 기숙사나 플랫이나 학생 숙소 등이 많습니다. 그리고 시내에 가면 음식점, 서점,테스코(영국의 마트 개념) 등 생활에 필요한 장소들도 있으며, 유흥을 위한 클럽이나 술집도 있습니다.전반적으로 산책하기 좋으며, 더럼에 살다보면 30-40분 정도의 거리는 당연하게 걷게 됩니다. 더럼시내를 지나는 하나의 강이 있는데 거기에는 조정(rowing)을 하는 학생들을 종종 볼 수 있고, 때로는 오리나 거위 같은 동물들이 쉬고 있는 모습을 목격할 수 있습니다.” \n출처: “또 다시 새내기, Durham University (2019-2020)”\n\n“학교 건물 외에 기숙사, 플랫, 학생 숙소 등이 많아서 안전한 편입니다. 시내에는 클럽이나 바도 있지만 음식점, 서점, 테스코 등 생활에 필요한 것들이 최소한으로 있는 느낌입니다. 도시 자체는 워낙 작아서 볼 거리가 없지만 개인적으로 저는 그래도 시내로 가는 길이 정말 좋았습니다. 강도 건널 수 있고, 타지의 삶이란 이런 것이구나 만끽할 수 있는 정말 고즈넉한 시골 소도시입니다. 정말이지 산책하기 좋고 (물론 비를 항상 맞으면서 걸어다닐 준비를 하셔야 합니다. 우산을 쓰기도 뭣할 정도로 사방에서 흩날리는 미스트 같은 보슬비가 많이 내립니다.) ” \n출처: “ 더럼에서의 1년 (2019-2020)”\n\n“대학 도시인 Durham의 특성상, 도시 자체에는 많은 편의시설들이 있는 것은 아니지만, 기차로 약 10분 거리에 Newcastle이라는 꽤 큰 도시가 있고, 스코틀랜드의 수도인 Edinburgh도 기차로 약 1시간 거리에 있어, Durham 자체는 큰 도시가 아니지만, 다른 북부도시들과의 접근성이 꽤 좋습니다. Durham 내에는 학생시설들 외에도 작은 town square에서 많은 이벤트들을 진행하며, Durham Book Festival이나 Light Festival, Christmas Festival 같이 자연환경을 활용한 행사들이 매달 진행됩니다.” \n출처: “Durham University에서의 1년 (2017-2018)”\n\n🍽️ 거주 형태, 식사\n\n“Durham University는 16개의 Residential College로 나눠져 있으며, 무작위 배정으로 기숙사 및 college가 배정됩니다. 각 기숙사마다 위치가 살짝 다르고, college에 따라 formal dinner나 catering의 여부가 정해집니다. 대부분의 기숙사는 식사가 제공되고, 키친이나 조리시설은 전자레인지, 냉장고 등이 간단하게 갖춰져있는 형태로 구성되어 있고, 같은 층에 배정된 5-9명의 학생과 쉐어하는 공간입니다. 제가 배정받은 Collingwood College도 역시 catering이 가능한 college였고, 아침, 점심, 저녁 3끼 모두 기숙사 1층 식당에서 제공이 되었습니다. 식사는 뷔페형태로 되어 있으며, 주식과 사이드로 구성이 되어 있습니다. 매끼마다 Vegan, Vegetarian 옵션들이 마련되어 있고, gluten-free 제품들도 한가지씩 제공됩니다.” \n출처: “Durham University에서의 1년 (2017-2018)”\n\n“저는 식사가 나오는 기숙사 (catered college)에 있었어요! 식사가 나오지 않거나(self-catered/ 본인이 알아서 먹고, 요리도구과 요리하는 공간이 있음) 두 개를 섞어서 반반 정도인 기숙사도 있으니 참고하시면 됩니다. 저는 식사가 아침, 점심, 저녁으로 다 나왔기 때문에 기숙사에서 편하게 먹을 수 있었습니다. 아침 같은 경우는 간단하게 빵류 (베이글, 토스트 등), 유제품(우유, 요플레), 음료(커피, 핫초코, 주스), 햄과 치즈 및 과일 이 정도였던 걸로 기억합니다. 점심은 기숙사에서 해도 되고 학교 내의 다른 카페테리아에서도 점심값 내외로 살 수 있어서 수업이 많을 때 간단하게 샌드위치랑 음료 사서 먹을 수 있어서 좋았습니다. 저녁은 대부분 양식으로 나오고, 고기류/vegetarian/vegan 종류로 나눠져 있어서 기호에 맞게 먹을 수 있습니다. 그리고 감자는 거의 항상 나오고^^” \n출처: “또 다시 새내기, Durham University (2019-2020)”\n\n📚 수업, 도서관\n\n“영국에서 살아봤던 경험이 있어 특별히 언어 장벽을 느끼진 않았지만, 영국 대학 생활을 경험하며 느끼는 색다름이 있었습니다. 공부하는 시스템에 있어서 한국과는 다른 점이 워낙 많은데 따로 자세한 설명이나 가이드라인이 있지 않아서 좀 적응하는 게 어렵다는 느낌도 들었습니다. 또한 1년 동안 과목을 공부하다가 막학기에 시험을 전부 몰아서 보는 최종시험 평가방법이 특히 익숙치 않았고, 이게 저의 경우에는 코로나 사태와 겹치면서 조금 문제가 커지기도 했습니다…” \n출처: “더럼에서의 1년 (2019-2020)”\n\n“Durham University는 세계 100위권 대학에 포함되어 있는 대학교이며, 영국 내에서는 5~10순위에 드는 대학 중 하나입니다. 특히나 English (영어영문학) 프로그램이 5위권 안에 들 정도로 손에 꼽힙니다. 수업형태는 특이하게도 1년 3학기제로 진행되며, 10월-12월 (Michaelmas Term), 1월-3월(Epiphany Term), 4월-6월(Easter Term)로 구성이 되며, 1년 내내 같은 수업을 듣게 됩니다. 중간 중간에는 방학이 약 1-2달 주어지며, 최종시험은 6월달 한 달간 진행이 됩니다. 영문학과 같은 경우에는, 최종시험이 없는 seminar 수업과 lecture 수업 두 종류가 있고, 본인의 선택사항에 따라 수업을 선택할 수 있습니다. Seminar 수업은 필수참여이며, 2주에 한번씩, 2시간씩 진행이 되고, Lecture 수업은 출석체크를 따로 하지 않는 lecture가 매주 열리는 대신, 필수참여인 소규모 discussion 수업이 따로 열립니다. 시험은 에세이 시험으로, 주어진 시간 동안 2-3개의 에세이를 손으로 작성해서 내야합니다. Durham University에는 중앙도서관인 Bill Bryson Library가 있으며, 학생증만 있다면 자유롭게 출입이 가능합니다. 위치는 Hill College쪽에 더 가까이 위치해있으며, science site와 매우 근접합니다. 도서관에서는 개인공부실을 대여하거나, 책을 읽을 수 있으며, 공용컴퓨터와 영상물 감상실도 따로 마련되어 있습니다. 유료프린트와 스캔 시설이 있으며, 작은 카페나 식사를 할 수 있는 장소들 역시 있습니다. 그외에도, 각 college마다 college library가 있는데, 이 곳에서는 공부를 하거나, 소규모 모임을 가질 수 있으며, 프린트 시설 역시 마련되어 있습니다.” \n출처: “ (2017-2018)”\n\n➕ 기타\n\n“만약 여행을 자주 가고 싶다면 영국 소도시보다는 런던이나 다른 유럽 대도시를 가는 게 훨씬 편할 것 같습니다. 더럼에서는 뉴캐슬로 가야 공항이 있고, 다른 유럽 국가 가는 항공편도 훨씬 비쌉니다. 하지만 고즈넉하고 조용한 동네에서 생활해보고 싶다, 혹은 자연과 가까운 곳에서 생활하고 싶다면 살기 좋은 동네입니다. 개인적으로는 만족했지만 조금 더 화려한 삶을 꿈꾸는 사람이라면 대도시로 가는 게 좋을 것 같습니다.” \n출처: “영국 소도시 더럼에서의 1년 (2019-2020)”\n\n“일단 교환학생들은 모두 Palatine Center에서 전반적인 도움을 받으시면 됩니다. 교내에 동아리 같은 한인학생 사회도 있습니다. 한편 평소에 지병이 있는 경우나 심리 상담, 스트레스 문제는 모두 Nightline이라는 24시간 상담센터 번호로 통화 가능합니다. 기숙사 내에도 이런 카운슬링 집단이 있지만 이건 상급학년 학생들이 운영하는 것이어서 전문적인 도움을 받기는 어렵습니다.” \n출처: “더럼에서의 1년 (2019-2020)”\n\n“Durham University에는 많은 동아리들이 있는데, 크게는 college 차원의 동아리와 university 전체 중앙동아리로 나뉩니다. College 내 동아리는 대부분 스포츠 (배드민턴, 테니스, 조정, 당구, 기타 등등) 동아리와 연극 동아리이며, 해당 college 소속 학생들로 구성됩니다. 중앙동아리는 여러가지 단과대 소속 동아리, 취미 동아리등 종류가 다양하고, 그 중 제일 활성화된 것은 연극 관련 동아리입니다. Durham University에는 약 20여가지의 학생 자치 theatre company들이 모여 만든 Durham Student Theatre가 있고, 매주 새로운 연극이 2-3개씩 열릴 정도로 활성화되어 있습니다. 뮤지컬, 전통연극, 셰익스피어 등 다양한 종류의 연극이 진행되며, 전부 학생들이 운영하는 시스템입니다.” \n출처: “Durham University에서의 1년 (2017-2018)”\n\nOpen Days + Events:",
-        "academic_requirements": "An Overview of the Academic Programme offered at Durham:\n\nAcademic requirements:\n\nStudents should have completed at least 1 year of study at the undergraduate level. Students must come for a full academic year (October - June).\n\nEnglish language requirements:\n\nIELTS: 6.5 overall (with no element lower than 6)\n\nTOEFL IBT: overall score of 92 (with no component lower than 23)\n\n*note that all qualifications must be taken within two years of the start of the academic programme.",
-        "useful_links": [
-          {
-            "label": "Apply",
-            "url": "https://www.durham.ac.uk/global-durham/global-opportunities/incoming-opportunities/fee-paying-incoming-study-abroad/apply/"
-          },
-          {
-            "label": "prospectus.webspace.durham.ac.uk",
-            "url": "https://prospectus.webspace.durham.ac.uk/"
-          },
-          {
-            "label": "^ comprehensive information on the different modules, suitability, assessment, credit transfers, etc. of each course with links to each department’s course handbook",
-            "url": "https://www.durham.ac.uk/global-durham/global-opportunities/incoming-opportunities/fee-paying-incoming-study-abroad/programme-info/"
-          },
-          {
-            "label": "Anthropology",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Anthropology.pdf"
-          },
-          {
-            "label": "Archaeology",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Archaeology.pdf"
-          },
-          {
-            "label": "Biosciences",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Biosciences.pdf"
-          },
-          {
-            "label": "Business School Postgraduate",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Business-PG.pdf"
-          },
-          {
-            "label": "Business School Undergraduate",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Business-UG.pdf"
-          },
-          {
-            "label": "Chemistry",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Chemistry.docx"
-          },
-          {
-            "label": "Classics & Ancient History",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Classics--Ancient-History.pdf"
-          },
-          {
-            "label": "Computer Science",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Computer-Science.pdf"
-          },
-          {
-            "label": "Earth Sciences",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Earth-Sciences.pdf"
-          },
-          {
-            "label": "Education",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Education.pdf"
-          },
-          {
-            "label": "Engineering",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Engineering.pdf"
-          },
-          {
-            "label": "English Studies",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/English-Studies.pdf"
-          },
-          {
-            "label": "Geography",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Geography.pdf"
-          },
-          {
-            "label": "School of Government and International Affairs",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Politics.pdf"
-          },
-          {
-            "label": "History",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/History.pdf"
-          },
-          {
-            "label": "Law",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Law.pdf"
-          },
-          {
-            "label": "Mathematical Sciences",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Mathematical-Sciences.pdf"
-          },
-          {
-            "label": "Modern Languages & Cultures",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/MLAC.pdf"
-          },
-          {
-            "label": "Music",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Music.pdf"
-          },
-          {
-            "label": "Philosophy",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Philosophy.pdf"
-          },
-          {
-            "label": "Physics",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Physics.pdf"
-          },
-          {
-            "label": "Psychology",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Psychology.pdf"
-          },
-          {
-            "label": "Sociology",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Sociology.pdf"
-          },
-          {
-            "label": "Sport and Exercise Sciences",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Sport-and-Exercise-Sciences.pdf"
-          },
-          {
-            "label": "Theology and Religion",
-            "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Theology-and-Religion.pdf"
-          },
-          {
-            "label": "Academic dates",
-            "url": "https://www.dur.ac.uk/academic-dates/"
-          },
-          {
-            "label": "Fee paying incoming study abroad",
-            "url": "https://www.durham.ac.uk/global-durham/global-opportunities/incoming-opportunities/fee-paying-incoming-study-abroad/"
-          },
-          {
-            "label": "durham.ac.uk",
-            "url": "https://www.durham.ac.uk/"
-          },
-          {
-            "label": "Thedurhamstudent",
-            "url": "https://www.instagram.com/thedurhamstudent/"
-          },
-          {
-            "label": "Self guided tours",
-            "url": "https://www.durham.ac.uk/visit-us/open-days/self-guided-tours/"
-          },
-          {
-            "label": "All the information about the location (campus) as well as surrounding areas of interest has also been graciously presented on Durham University’s website. They also include directions and recommended transport options!",
-            "url": "https://www.durham.ac.uk/visit-us/location/"
-          },
-          {
-            "label": "Virtual tour",
-            "url": "https://www.durham.ac.uk/business/about/virtual-tour/"
-          },
-          {
-            "label": "SVxYFejteYX5ZRmH9",
-            "url": "https://maps.app.goo.gl/sVxYFejteYX5ZRmH9"
-          }
-        ],
-        "video_links": [
-          {
-            "label": "Durham University International",
-            "url": "https://youtu.be/IhDaSKWEzwA?si=uiQqT0Pvay7VEp_A"
-          },
-          {
-            "label": "Durham Colleges - Our Communities",
-            "url": "https://youtu.be/xyKZvkJUrpM?si=eipgMsgh-6C1vSwY"
-          },
-          {
-            "label": "Durham Colleges - Our Student Support",
-            "url": "https://youtu.be/qNz76cJOkBY?si=CPzR9LPbofAwQ8pa"
-          },
-          {
-            "label": "Things to do at Durham University",
-            "url": "https://youtu.be/WkQHNzZ7iPA?si=mp9MU9JcqJ-lPxqT"
-          },
-          {
-            "label": "What is life at Durham University like?",
-            "url": "https://youtu.be/LU4W28nMGmw?si=KrH0f3W7heBdnvLT"
-          },
-          {
-            "label": "The Guide to Durham Colleges",
-            "url": "https://youtu.be/kZPw_gWq8uk?si=jjcZxaPpK6xvJR8p"
-          },
-          {
-            "label": "Durham 2025",
-            "url": "https://youtu.be/IhJMYb37DGk?si=s7vTXxSe3Uzwjme0"
-          },
-          {
-            "label": "Durham University International",
-            "url": "https://www.youtube.com/watch?app=desktop&v=IhDaSKWEzwA"
-          }
-        ],
-        "gallery_urls": [],
-        "social_links": [
-          {
-            "label": "",
-            "url": "https://www.facebook.com/durhamuniversity/"
-          },
-          {
-            "label": "",
-            "url": "https://www.instagram.com/durhamuniversity?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-          },
-          {
-            "label": "",
-            "url": "https://www.instagram.com/thedurhamstudent/"
-          },
-          {
-            "label": "",
-            "url": "https://x.com/durham_uni"
-          },
-          {
-            "label": "",
-            "url": "https://www.youtube.com/user/durhamuniversity"
-          }
-        ]
-      }
-    },
-    {
       "slug": "university-of-zurich",
       "last_updated": null,
       "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A4t%20Z%C3%BCrich%20logo.svg",
@@ -8200,7 +7942,7 @@
       "spring_calendar_year": "N",
       "academic_system": "Semester",
       "toefl_total": 90,
-      "toefl_subscores": "21 in all subscores",
+      "toefl_subscores": "90 overall 21 in each section / 4.5 overall 4.0 in each section",
       "lang2_level": "",
       "language_other_notes": "",
       "available_areas": "* Faculty of Engineering, Mathematics & Science \n* Faculty of Arts, Humanities and Social Sciences\nhttps://www.tcd.ie/students/orientation/visiting-exchange/module-enrolment.php",
@@ -8735,7 +8477,7 @@
       "academic_calendar": "https://businesspf.hs-pforzheim.de/international/international_study_program_isp/information_for_incoming_bachelor_exchange_students/academic_year",
       "housing_info": "https://www.hs-pforzheim.de/en/international/studying_in_pforzheim/general_information/housing",
       "housing_guaranteed": "Partial",
-      "recent_factsheet": "https://storage.tally.so/private/FactSheet_HS_PF_Exchange_2026.pdf?id=GYr46Q&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkdZcjQ2USIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc2Mzk5Mzc2Nn0.aJKHfzszgXhDc8nlJQmt0wK-RUY2V3Q_LhBzQkURrfg&signature=5a9bd85e3d1b71ee592d5041c5203db888aa7fc54d42ab815a0cebc6defa8d95",
+      "recent_factsheet": "https://drive.google.com/file/d/1YKLnZhwrDsKydgymS8_CGd7abf-SkFWk/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "campus_lat": 48.8789607,
@@ -11120,7 +10862,7 @@
       "country": "Belgium",
       "language_of_instruction_1": "English",
       "language_of_instruction_2": "",
-      "quota": 0,
+      "quota": 2,
       "quota_unit": "slot",
       "accepts_undergrad": "Y",
       "accepts_grad": "Y",
@@ -11150,7 +10892,7 @@
       "campus_lat": 51.0078485,
       "campus_lng": 3.7108831,
       "scholarship": "",
-      "notes": "5개 학부만 개방(경영·공학[석사만]·이학·심리·생명공학). 영어요건 학부별 상이(최대 TOEFL 90), 석사 과목은 120/180 ECTS 선이수 필요.\nOnly 5 faculties open (Economics & Business, Engineering [master only], Sciences, Psychology, Bioscience Engineering); English requirement varies by faculty (up to TOEFL 90); master courses need 120/180 ECTS completed.",
+      "notes": "5개 학부만 개방(경영·공학[석사만]·이학·심리·생명공학). 영어요건 학부별 상이(최대 TOEFL 90), 석사 과목은 120/180 ECTS 선이수 필요.\nOnly 5 faculties open (Economics & Business, Engineering [master only], Sciences, Psychology, Bioscience Engineering); English requirement varies by faculty (up to TOEFL 90); master courses need 120/180 ECTS completed.\n\nApplication procedure in details: https://www.ugent.be/prospect/en/administration/application/application-exchange",
       "transcript_info": "Transcripts usually arrive around July for spring and around February for fall.",
       "change_note": "",
       "hide_from_students": "N",
