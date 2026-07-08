@@ -314,7 +314,120 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "durham-university",
+      "date": "2026-07-08",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "adelaide-university",
+      "date": "2026-07-08",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "university-of-the-ryukyus",
+      "date": "2026-07-08",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "william-and-mary",
+      "date": "2026-07-08",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "washington-and-jefferson-college",
+      "date": "2026-07-08",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "university-of-washington",
+      "date": "2026-07-08",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_total",
+          "from": 76,
+          "to": 83
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "university-of-hawaii-at-manoa",
+      "date": "2026-07-08",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_total",
+          "from": 61,
+          "to": 68
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "the-university-of-texas-at-austin",
+      "date": "2026-07-08",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "accepts_grad",
+          "from": "",
+          "to": "Y"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "syracuse-university",
+      "date": "2026-07-08",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_total",
+          "from": 80,
+          "to": 81
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "oregon-state-university",
+      "date": "2026-07-08",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "gpa_required",
+          "from": 2.8,
+          "to": 2.65
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "arizona-state-university",
+      "date": "2026-07-08",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 6,
+          "to": 3
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-07-07T19:47:55.232475+00:00"
+  "generated_at": "2026-07-08T14:22:40.660531+00:00"
 }
