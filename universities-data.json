@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T00:22:40.924376Z",
+  "generated_at": "2026-07-09T19:29:37.257313Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -8916,7 +8916,7 @@
       "lang2_level": "B2",
       "language_other_notes": "Please provide proof of sufficient skills (min. B2 for English and B1 for German according to CEFR) in the language of instruction (German and/or English). Please check beforehand, which languages are required for the majority of your lectures or for conducting research in your field. If you only want to take English language courses and are a native speaker, please send your University entrance Diploma to prove your English language skills.",
       "available_areas": "",
-      "restricted_areas": "",
+      "restricted_areas": "(For English track) Leibniz University Hannover does not offer English-taught courses in certain undergraduate programs: biology, architecture and landscape architecture. We advise against sending students from these disciplines for an exchange at our university, as they would not be able to complete a sufficient course load in English.",
       "admission_notes": "https://www.uni-hannover.de/en/studium/im-studium/international/incoming/austauschprogramme/bilateral\n\nBoth Fall and Spring",
       "fall_nomination_deadline": "04/30",
       "fall_application_deadline": "05/31",

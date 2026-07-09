@@ -440,7 +440,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "leibniz-university-of-hannover",
+      "date": "2026-07-09",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "restricted_areas",
+          "from": "",
+          "to": "(For English track) Leibniz University Hannover does not offer English-taught courses in certain undergraduate programs: biology, architecture and landscape architecture. We advise against sending students from these disciplines for an exchange at our university, as they would not be able to complete a sufficient course load in English."
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-07-09T00:22:40.924376+00:00"
+  "generated_at": "2026-07-09T19:29:37.257313+00:00"
 }
