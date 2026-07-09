@@ -427,7 +427,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "the-university-of-new-south-wales",
+      "date": "2026-07-09",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_subscores",
+          "from": "R22 L22 S22 W23",
+          "to": ""
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-07-08T19:16:11.438578+00:00"
+  "generated_at": "2026-07-09T00:16:32.538649+00:00"
 }
