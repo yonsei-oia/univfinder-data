@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T15:36:36.047144Z",
+  "generated_at": "2026-07-22T15:53:12.392729Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -8,12 +8,12 @@
   },
   "programs": [
     {
-      "slug": "deakin-university-winter",
+      "slug": "deakin-university",
       "university_name": "Deakin University",
       "program_name": "Australian Studies Summer School",
       "program_type": "ESP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Australia",
       "continent": "Asia/Oceania",
       "website": "https://www.deakin.edu.au/international-students/study-abroad-and-exchange#summer-school",
@@ -54,12 +54,12 @@
       "campus_lng": 145.1149474
     },
     {
-      "slug": "kwansei-gakuin-university-winter",
+      "slug": "kwansei-gakuin-university",
       "university_name": "Kwansei Gakuin University",
       "program_name": "KGU Winter School 2027",
       "program_type": "ESP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Japan",
       "continent": "Asia/Oceania",
       "website": "https://ciec.kwansei.ac.jp/study/shortprograms/winterschool/",
@@ -100,12 +100,12 @@
       "campus_lng": 135.3469101
     },
     {
-      "slug": "sophia-university-winter",
+      "slug": "sophia-university",
       "university_name": "Sophia University",
       "program_name": "January Session in Japanese Studies\n (On-site at Yotsuya Campus)",
       "program_type": "ESP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Japan",
       "continent": "Asia/Oceania",
       "website": "https://piloti.sophia.ac.jp/eng/studyabroad/short-term/january/",
@@ -146,12 +146,12 @@
       "campus_lng": 139.7321744
     },
     {
-      "slug": "katholieke-universiteit-leuven-winter",
+      "slug": "katholieke-universiteit-leuven",
       "university_name": "Katholieke Universiteit Leuven",
       "program_name": "Winter University 2027 (On-site Program)",
       "program_type": "ESP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Belgium",
       "continent": "Europe",
       "website": "https://www.kuleuven.be/english/summer-schools/Global-Challenges-for-Our-Sustainable-Future",
@@ -192,12 +192,12 @@
       "campus_lng": 4.4046263
     },
     {
-      "slug": "aalto-university-school-of-business-winter",
+      "slug": "aalto-university-school-of-business",
       "university_name": "Aalto University - School of Business",
       "program_name": "Teaching period III (Jan-Feb) - Short Winter Exchange",
       "program_type": "ESP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Finland",
       "continent": "Europe",
       "website": "",
@@ -238,12 +238,12 @@
       "campus_lng": 24.8236392
     },
     {
-      "slug": "universite-bordeaux-montaigne-winter",
+      "slug": "universite-bordeaux-montaigne",
       "university_name": "Université Bordeaux Montaigne",
       "program_name": "Bordeaux Montaigne University International Winter School",
       "program_type": "ESP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "France",
       "continent": "Europe",
       "website": "https://www.u-bordeaux-montaigne.fr/en/study/application/international-winter-school.html",
@@ -284,12 +284,12 @@
       "campus_lng": -0.6173657
     },
     {
-      "slug": "paris-school-of-business-winter",
+      "slug": "paris-school-of-business",
       "university_name": "Paris School of Business",
       "program_name": "Winter School 2027",
       "program_type": "VSP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "France",
       "continent": "Europe",
       "website": "https://www.psbedu.paris/en/programs/short-programs",
@@ -330,12 +330,12 @@
       "campus_lng": null
     },
     {
-      "slug": "free-university-of-berlin-winter",
+      "slug": "free-university-of-berlin",
       "university_name": "Free University of Berlin",
       "program_name": "FUBiS Term I 2027",
       "program_type": "VSP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Germany",
       "continent": "Europe",
       "website": "https://www.fubis.org/index.html",
@@ -376,12 +376,12 @@
       "campus_lng": null
     },
     {
-      "slug": "universita-cattolica-del-sacro-cuore-winter",
+      "slug": "universita-cattolica-del-sacro-cuore",
       "university_name": "Università Cattolica del Sacro Cuore",
       "program_name": "Winter Programmes 2026-2027",
       "program_type": "VSP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Italy",
       "continent": "Europe",
       "website": "https://international.unicatt.it/ucscinternational-short-term-programs-winter-programs",
@@ -422,12 +422,12 @@
       "campus_lng": null
     },
     {
-      "slug": "humboldt-university-of-berlin-winter",
+      "slug": "humboldt-university-of-berlin",
       "university_name": "Humboldt University of Berlin",
       "program_name": "the Humboldt Winter and Summer University (HUWISU)",
       "program_type": "VSP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Germany",
       "continent": "Europe",
       "website": "https://hic.hu-berlin.de/en/huwisu",
@@ -468,12 +468,12 @@
       "campus_lng": 13.3929202
     },
     {
-      "slug": "waseda-university-winter",
+      "slug": "waseda-university",
       "university_name": "Waseda University",
       "program_name": "Waseda Winter Session 2027",
       "program_type": "VSP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "Japan",
       "continent": "Asia/Oceania",
       "website": "https://www.waseda.jp/inst/gip/winter-session",
@@ -514,12 +514,12 @@
       "campus_lng": 139.7197213
     },
     {
-      "slug": "institut-d-etudes-politiques-de-paris-winter",
+      "slug": "institut-d-etudes-politiques-de-paris",
       "university_name": "Institut d'études politiques de Paris",
       "program_name": "Winter School 2027",
       "program_type": "VSP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "France",
       "continent": "Europe",
       "website": "https://www.sciencespo.fr/international-short-programmes/en/winter-school/",
