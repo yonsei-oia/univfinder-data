@@ -453,7 +453,249 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "uic-exclusive-barnard-college",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "gpa_required",
+          "from": 3.0,
+          "to": 3.4
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "soas-university-of-london",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "10/01",
+          "to": "06/30"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "06/30",
+          "to": "10/01"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "public-university-of-navarre",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "10/24",
+          "to": "05/31"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "05/31",
+          "to": "10/24"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "tilburg-university",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "10/01",
+          "to": "05/15"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "05/15",
+          "to": "10/01"
+        },
+        {
+          "field": "spring_application_deadline",
+          "from": "05/15",
+          "to": "10/15"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "kaunas-university-of-technology",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "10/01",
+          "to": "06/30"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "06/30",
+          "to": "10/01"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "university-of-bologna",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 2,
+          "to": 3
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "rwth-aachen-university",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "10/31",
+          "to": "05/31"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "05/31",
+          "to": "10/31"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "leibniz-university-of-hannover",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 2,
+          "to": 4
+        },
+        {
+          "field": "quota_unit",
+          "from": "person",
+          "to": "slot"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "university-of-queensland",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_total",
+          "from": 87,
+          "to": null
+        },
+        {
+          "field": "toefl_subscores",
+          "from": "\"- Recognised by UQ:\nTOEFL iBT Australia with section scores reported on a 0–30 scale\n\n- Not recognised by UQ:\nTOEFL iBT with section scores reported on a 1–6 scale\nTOEFL iBT Home Edition\nTOEFL ITP\"\n(subscores: R19 L19 S19 W21)",
+          "to": "※ 호주 Department of Home Affairs (DHA) 기준에 따라 \"TOEFL iBT Australia\" 성적표 제출 필요\n※ Submission of a \"TOEFL iBT Australia\" score report is mandatory in accordance with Department of Home Affairs (DHA) requirements."
+        },
+        {
+          "field": "language_other_notes",
+          "from": "",
+          "to": "\"- Recognised by UQ:\n※ 호주 Department of Home Affairs (DHA) 기준에 따라 \"TOEFL iBT Australia\" 성적표 제출 필요\n※ Submission of a \"TOEFL iBT Australia\" score report is mandatory in accordance with Department of Home Affairs (DHA) requirements.\n\n\n- Not recognised by UQ:\nTOEFL iBT with section scores reported on a 1–6 scale\nTOEFL iBT Home Edition\nTOEFL ITP\"\n(subscores: R19 L19 S19 W21)"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "university-of-auckland",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "language_other_notes",
+          "from": "",
+          "to": "신토플 4 이상, W 4"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "university-of-otago",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_subscores",
+          "from": "Undergraduate: Overall score of 80 and a writing score of 20\n(Please note we do not accept MyBest TOEFL scores)\nGraduate:Overall score of 90 and a writing score of 21\n(Please note we do not accept MyBest TOEFL scores)\nhttps://www.otago.ac.nz/future-students/entry-requirements/language-requirements",
+          "to": "Undergraduate: Overall score of 80 and a writing score of 20 / 신토플 4 이상, writing score 4\n(Please note we do not accept MyBest TOEFL scores)\nGraduate:Overall score of 90 and a writing score of 21 / 신토플 4.5 이상, writing score 405\n(Please note we do not accept MyBest TOEFL scores)\nhttps://www.otago.ac.nz/future-students/entry-requirements/language-requirements"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "adelaide-university",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_total",
+          "from": 79,
+          "to": null
+        },
+        {
+          "field": "toefl_subscores",
+          "from": "R13 L13 S18 W21",
+          "to": "※ 호주 Department of Home Affairs (DHA) 기준에 따라 \"TOEFL iBT Australia\" 성적표 제출 필요\n※ Submission of a \"TOEFL iBT Australia\" score report is mandatory in accordance with Department of Home Affairs (DHA) requirements."
+        },
+        {
+          "field": "language_other_notes",
+          "from": "We also accept other forms of English language proficency. Visit our Entry Requiremnets website for further details: https://www.adelaide.edu.au/inbound-study-abroad/steps-to-apply/entry-requirements",
+          "to": "※ 호주 Department of Home Affairs (DHA) 기준에 따라 \"TOEFL iBT Australia\" 성적표 제출 필요\n※ Submission of a \"TOEFL iBT Australia\" score report is mandatory in accordance with Department of Home Affairs (DHA) requirements."
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "monash-university",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "language_other_notes",
+          "from": "",
+          "to": "신토플 4 이상,  R 3.5 L 3 W 4.5 S 3.5"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "griffith-university",
+      "date": "2026-07-23",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_total",
+          "from": 71,
+          "to": 79
+        },
+        {
+          "field": "language_other_notes",
+          "from": "",
+          "to": "신토플 4 이상, R4 L4 S3.5 W4"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-07-22T19:04:30.862475+00:00"
+  "generated_at": "2026-07-23T01:15:25.450763+00:00"
 }
