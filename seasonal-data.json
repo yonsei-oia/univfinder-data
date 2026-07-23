@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:38:40.821929Z",
+  "generated_at": "2026-07-23T07:43:33.777562Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -180,7 +180,7 @@
       "academic_calendar": "",
       "housing_info": "",
       "housing_guaranteed": "Yes",
-      "recent_factsheet": "",
+      "recent_factsheet": "https://drive.google.com/file/d/1heubpb8btPdq_aQvYaI6KG6F_Jl7ry6i/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "Transcripts usually arrive around February for Winter.",
@@ -226,7 +226,7 @@
       "academic_calendar": "",
       "housing_info": "",
       "housing_guaranteed": "TBA",
-      "recent_factsheet": "",
+      "recent_factsheet": "https://drive.google.com/file/d/1WsxmShNbMqBTvgbmT8DcJE4vhQHyHVJt/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "",
@@ -548,7 +548,7 @@
       "academic_calendar": "",
       "housing_info": "",
       "housing_guaranteed": "Yes",
-      "recent_factsheet": "",
+      "recent_factsheet": "https://drive.google.com/file/d/1BpX1t9fdgKh7Qb8wao6k7hpn0emEroXZ/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "",
