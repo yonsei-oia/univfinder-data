@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T07:43:33.777562Z",
+  "generated_at": "2026-07-23T08:25:16.740819Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
     "season_label": "Winter 2027",
-    "is_live": true
+    "is_live": false
   },
   "programs": [
     {
