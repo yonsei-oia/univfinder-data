@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:10:36.612410Z",
+  "generated_at": "2026-07-23T07:15:52.860577Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -200,7 +200,7 @@
       "winter_open": false,
       "country": "Finland",
       "continent": "Europe",
-      "website": "TBA",
+      "website": "",
       "program_dates": "TBA(from early January to almost end of February)\n*7 weeks",
       "nomination_deadline": "TBA",
       "application_deadline": "TBA",
