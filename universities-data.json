@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T18:59:29.348484Z",
+  "generated_at": "2026-07-26T19:03:24.842326Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -9804,7 +9804,12 @@
             "url": "https://www.google.com/maps/d/viewer?mid=1zWud97kCZq-_m9S_XM76kPwW60k&femb=1&ll=44.18527324910963,0.623409312828036&z=16"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "Bienvenue à l'Université Bordeaux Montaigne",
+            "url": "https://youtu.be/AMA91hWPwz0?si=UDk9nRdFkWc4N2sG"
+          }
+        ],
         "gallery_urls": [],
         "social_links": [
           {
