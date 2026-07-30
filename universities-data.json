@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:05:40.282361Z",
+  "generated_at": "2026-07-30T19:17:22.528943Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -5703,9 +5703,9 @@
         "about_text": "Universidad Carlos III de Madrid (UC3M) is a public university in the Madrid metropolitan area of Spain, founded in 1989, with a strong emphasis on research and an international, bilingual environment. It offers programs in fields including business, economics, engineering, law, communication, journalism, and international studies. Courses are offered in both Spanish and English.",
         "why_yonsei": "UC3M offers a substantial selection of English-taught courses, particularly in business, communications, engineering, international studies, and journalism, making it accessible to exchange students who do not study in Spanish, while Spanish-language courses are also available. The university hosts a large international community and provides orientation sessions and additional language and liberal arts courses through its International School. Exchange students should consult the official course offer to confirm which courses are open to them, as availability varies by degree and campus.",
         "campus_location": "UC3M operates campuses in Getafe, Leganés, and Colmenarejo, all within the Madrid metropolitan area and connected to central Madrid by public transport. The Getafe campus hosts social sciences, humanities, and law, while the Leganés campus focuses on engineering and technology.",
-        "accommodation": "",
-        "student_tips": "",
-        "academic_requirements": "",
+        "accommodation": "UC3M does not assign housing directly; students arrange their own through three main paths. (1) University residence halls: two in Getafe and one in Leganés — historically prioritized for full-year students, but increasingly open to semester students. (2) Private student residences near each campus, already used by many exchange partners (Getafe: LIV Student, MiCampus, Amro, Vivocoliving; Leganés: MiCampus). (3) UC3M-vetted housing agencies listed on the official accommodation page, for students who prefer a shared flat in Madrid, Getafe, or Leganés. Prices and applications are handled directly with each provider, not through UC3M. Secure your accommodation before arriving in Madrid and beware of rental scams — UC3M publishes a dedicated warning guide. Budget roughly EUR 700-800 per month covering rent in a shared flat, food, and transport.",
+        "student_tips": "Course enrollment is first come, first served, and UC3M does not guarantee a seat in any particular course or group. Popular English-taught courses fill up quickly, so prepare approved backup courses (a plan B) before the semester begins. All exams are taken on-site; remote examination is not allowed. If you go for the fall semester only, your final exams are moved up to December, before the Christmas break, so the semester ends before the holidays; full-year students sit fall exams in January. UC3M runs a Buddy Program that matches incoming students with local students in small groups (separate registration required), and the ESN chapter is active on both campuses.",
+        "academic_requirements": "Exchange students enroll in 6 to 30 ECTS per semester; most courses are worth 6 ECTS and are offered in one semester only. As a non-European partner university, Yonsei students may take courses from all UC3M Schools, in English or Spanish, at any year level — unlike Erasmus students, who are restricted to a single School. Master's courses are not open to exchange students. Some degrees are excluded from exchange as of 2026/27, including Artificial Intelligence, Applied Mathematics, Neuroscience, Biomedical Sciences, Philosophy-Politics-Economics, Security Engineering, Primary Education, and 4th-year Robotics Engineering. Check prerequisites before selecting courses and avoid timetable overlaps; lecture and practical sessions of the same course must be taken in the same group. Spanish language courses at the Language Center are fee-paying and cannot be included in the Learning Agreement.",
         "useful_links": [
           {
             "label": "International Exchange Students (Bachelor Degrees)",
@@ -5720,14 +5720,38 @@
             "url": "https://www.uc3m.es/Home"
           },
           {
-            "label": "Getafe ext en",
+            "label": "Getafe Campus Virtual Tour",
             "url": "https://hosting01.uc3m.es/semanal3/visita_virtual/getafe_ext_en/getafe_ext_en.html"
+          },
+          {
+            "label": "Course Difficulty Statistics by Course",
+            "url": "https://hosting04.uc3m.es/gdc/movilidad_rendimiento/"
+          },
+          {
+            "label": "Living in Madrid",
+            "url": "https://www.uc3m.es/living-madrid/home"
+          },
+          {
+            "label": "Spanish Courses (Language Center)",
+            "url": "https://www.uc3m.es/ss/Satellite/Idiomas/en/TextoDosColumnas/1371241204844/Spanish_courses"
+          },
+          {
+            "label": "Campus Photos: Getafe (Flickr)",
+            "url": "https://www.flickr.com/photos/eventosuc3m/albums/72157687195077762"
+          },
+          {
+            "label": "Campus Photos: Leganés (Flickr)",
+            "url": "https://www.flickr.com/photos/eventosuc3m/albums/72157688469044331"
           }
         ],
         "video_links": [
           {
-            "label": "Videos CEI",
+            "label": "Videos CEI (playlist)",
             "url": "https://www.youtube.com/playlist?list=PLhZxaHZyowwcQNGgI3g6JNwDM_ou8d9jH"
+          },
+          {
+            "label": "Get to Know UC3M (2025)",
+            "url": "https://www.youtube.com/watch?v=j7TkCGwLzPM"
           }
         ],
         "gallery_urls": [],
