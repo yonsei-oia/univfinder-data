@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:01:01.438591Z",
+  "generated_at": "2026-08-02T19:01:58.224007Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -3178,9 +3178,9 @@
     {
       "slug": "university-of-exeter",
       "last_updated": null,
-      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Exepos%C3%A9%20Logo%202012%20-%20present%20%28cropped%29.jpg",
+      "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reed%20Hall.jpg",
       "cover_image_credit": "Wikimedia Commons",
-      "cover_image_kind": "logo",
+      "cover_image_kind": "photo",
       "university_name": "University of Exeter",
       "website": "https://www.exeter.ac.uk/study/studyabroad/",
       "continent": "Europe",
@@ -3223,22 +3223,59 @@
       "hide_from_students": "N",
       "content": {
         "about_text": "The University of Exeter is a public research university in the United Kingdom and a member of the Russell Group. It received its royal charter in 1955, having grown from predecessor institutions in the city, and teaches across the arts, sciences, social sciences, and business. The language of instruction is English.",
-        "why_yonsei": "Exeter offers a broad incoming-exchange module catalogue taught in English, which suits Yonsei students seeking a full English-language semester in the United Kingdom. Please note several restrictions for exchange students: Biomedical Sciences, Drama, and Psychology modules are limited, and modules in the College of Medicine and Health, the Graduate School of Education, and Liberal Arts (LIB) are not available. Because the Streatham and Penryn campuses are roughly two hours apart, students cannot combine modules from both campuses.",
+        "why_yonsei": "Exeter combines Russell Group research strength with a TEF Gold rating for teaching excellence, and its broad module catalogue is open to exchange students across most departments — you may take up to half of your modules outside your main subject area, at any undergraduate level. Exchange students pay no tuition to Exeter, and full-year students are guaranteed university accommodation. The green, parkland Streatham campus is a short walk from Exeter's historic city centre in Devon, southwest England, with the coast and Dartmoor National Park nearby. See the Student Guide below, written with feedback from this year's inbound exchange students.",
         "campus_location": "The main Streatham campus sits on parkland on the edge of Exeter city centre in Devon, southwest England, with the additional St Luke's campus nearby and the Penryn campus located in Cornwall.",
-        "accommodation": "",
-        "student_tips": "",
-        "academic_requirements": "",
+        "accommodation": "Full-year exchange students are guaranteed a room in university accommodation. Single-semester students can apply for a limited number of university-owned rooms, but most arrange private housing in the city, so start searching early. Accommodation applications close on 31 July for Semester 1 and full-year students, and in early November for Semester 2. Exeter recommends budgeting at least GBP 1,136 per month for accommodation and living costs.",
+        "student_tips": "Your module list is not final until you arrive: availability is confirmed on campus and a module change period runs during the first two weeks of each semester, so bring backup choices. Keep at least half of your modules in one subject area to reduce timetable clashes, and check each module's prerequisites. The Streatham and Penryn campuses are about two hours apart, so you cannot combine modules from both. For honest, practical advice on housing, money, societies, and daily life, read the Student Guide below — it was put together from feedback by this year's inbound exchange students.",
+        "academic_requirements": "Exchange students take 60 Exeter credits (30 ECTS) per semester, or 120 credits (60 ECTS) for a full year; a reduced load of 45 credits per semester is possible with written permission from Exeter. Modules in the College of Medicine and Health, the Graduate School of Education, and Liberal Arts (LIB) are not available, and Psychology, Drama, and Biomedical Sciences modules are open only to subject-specific exchange partners. On Exeter's side, single-semester students entering on a Visitor Visa submit an English Language Proficiency Form signed by the home university, while full-year students on a Student Visa need a qualification from Exeter's approved list (TOEFL 90 with minimum subscores). This applies to Exeter's admission and UK visa paperwork only — an official English test score is still required for Yonsei's exchange application and selection.",
         "useful_links": [
           {
             "label": "Study Abroad at Exeter",
             "url": "https://www.exeter.ac.uk/study/studyabroad/"
           },
           {
-            "label": "Incoming students brochure",
+            "label": "Exchange Information for Partner Students",
+            "url": "https://www.exeter.ac.uk/study/studyabroadprogrammes/partners/"
+          },
+          {
+            "label": "Student Guide by Inbound Students",
+            "url": "https://www.canva.com/design/DAHFmm4RSNE/hQy3_hsplosB3geQgjBQIw/view?utm_content=DAHFmm4RSNE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf82e855f58"
+          },
+          {
+            "label": "Incoming Students Brochure",
             "url": "https://digital.exeter.ac.uk/global-opportunities-inbound-brochure/"
+          },
+          {
+            "label": "Inbound Factsheet 2026-27 (PDF)",
+            "url": "https://www.exeter.ac.uk/v8media/specificsites/studyabroad/documents/University_of_Exeter_Inbound_Factsheet_2026-27.pdf"
+          },
+          {
+            "label": "Inbound Factsheet 2027-28 (PDF)",
+            "url": "https://www.exeter.ac.uk/v8media/universityofexeter/studying/studyabroad/inbound/Exeter_Inbound_factsheet_2027-8.pdf"
+          },
+          {
+            "label": "Module Selection Guide",
+            "url": "https://www.exeter.ac.uk/study/studyabroadprogrammes/moduleselection/"
+          },
+          {
+            "label": "Accommodation for Exchange Students",
+            "url": "https://www.exeter.ac.uk/study/studyabroadprogrammes/studentlife/accommodation/"
+          },
+          {
+            "label": "Visa Advice",
+            "url": "https://www.exeter.ac.uk/study/studyabroadprogrammes/apply/visaadvice/"
           }
         ],
-        "video_links": [],
+        "video_links": [
+          {
+            "label": "This is the University of Exeter",
+            "url": "https://www.youtube.com/watch?v=BUN0sSa2e9c"
+          },
+          {
+            "label": "Streatham Campus Tour",
+            "url": "https://www.youtube.com/watch?v=Yq8JHDspgMw"
+          }
+        ],
         "gallery_urls": [],
         "social_links": []
       }
@@ -6857,7 +6894,7 @@
       "academic_calendar": "",
       "housing_info": "https://www.thuas.com/study-choice/international-office/housing",
       "housing_guaranteed": "Partial",
-      "recent_factsheet": "https://storage.tally.so/private/factsheet-partners-2025-2026.pdf?id=p4VV9V&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InA0VlY5ViIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc2NDA3MDE0OX0.N0gwosuRF0htKKBBFY3P-he9FDH2x3d7PqvCVcxF5sI&signature=14828a651a6e90146eb8a61b3aca28c26417844085f627e78a1b12afb4161d09",
+      "recent_factsheet": "https://drive.google.com/file/d/1p2CmrUvT9doltvvG84wnz9ICBqkloPQ7/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "campus_lat": 52.0671409,
@@ -11105,7 +11142,7 @@
       "academic_calendar": "https://www.kuleuven.be/english/about-kuleuven/calendars/index.html",
       "housing_info": "https://www.kuleuven.be/english/life-at-ku-leuven/housing",
       "housing_guaranteed": "No",
-      "recent_factsheet": "https://storage.tally.so/private/Factsheet-Exchange-KU-Leuven-2026-2027compressed.pdf?id=E8JeP2&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkU4SmVQMiIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc2NDIzNzI3OX0.kME5kIvYblLQqcLX1Syh9Hvv8syc2vZ8siFaSXBSBbQ&signature=86fdf52c63353dfdd8e5a37dba1cc9a29e8d6536b8f6e1061df8c25110ac67ba",
+      "recent_factsheet": "https://drive.google.com/file/d/1FL90kZeVEWGQoDsiVTys5pWUBUk7nGTt/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "campus_lat": 51.2205068,
