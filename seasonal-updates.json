@@ -1,5 +1,90 @@
 {
   "schema_version": 1,
-  "updates": [],
-  "generated_at": "2026-08-01T19:43:49.170774+00:00"
+  "updates": [
+    {
+      "slug": "deakin-university-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "kwansei-gakuin-university-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "sophia-university-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "katholieke-universiteit-leuven-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "aalto-university-school-of-business-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "universite-bordeaux-montaigne-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "paris-school-of-business-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "free-university-of-berlin-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "universita-cattolica-del-sacro-cuore-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "humboldt-university-of-berlin-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "waseda-university-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "institut-d-etudes-politiques-de-paris-winter",
+      "date": "2026-08-02",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    }
+  ],
+  "generated_at": "2026-08-02T14:53:56.319278+00:00"
 }
