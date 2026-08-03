@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:26:12.353345Z",
+  "generated_at": "2026-08-03T01:28:49.921742Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -204,7 +204,7 @@
       "program_dates": "2027/01/07~2027/02/28\n*Schedule may change",
       "nomination_deadline": "10/08",
       "application_deadline": "TBA",
-      "program_fees": "TBA\n*tuition fee waived",
+      "program_fees": "*Tuition fee waived\nAccommodation, Lapland trip, and other living expenses should be paid separately",
       "currency": "EUR",
       "scholarship_settlement": 2000000,
       "scholarship_tuition": "",
@@ -222,10 +222,10 @@
       "language_other_notes": "",
       "available_areas": "",
       "restricted_areas": "",
-      "admission_notes": "",
+      "admission_notes": "Took a few business courses in English",
       "academic_calendar": "",
       "housing_info": "",
-      "housing_guaranteed": "TBA",
+      "housing_guaranteed": "Yes",
       "recent_factsheet": "https://drive.google.com/file/d/1WsxmShNbMqBTvgbmT8DcJE4vhQHyHVJt/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",

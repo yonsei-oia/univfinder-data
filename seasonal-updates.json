@@ -115,7 +115,18 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "aalto-university-school-of-business-winter",
+      "date": "2026-08-03",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "program_fees"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-03T01:26:12.353345+00:00"
+  "generated_at": "2026-08-03T01:28:49.921742+00:00"
 }
