@@ -102,7 +102,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "aalto-university-school-of-business-winter",
+      "date": "2026-08-03",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "nomination_deadline",
+          "from": "TBA",
+          "to": "10/08"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-03T01:21:40.891883+00:00"
+  "generated_at": "2026-08-03T01:22:14.690324+00:00"
 }
