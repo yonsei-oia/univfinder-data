@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:43:45.244491Z",
+  "generated_at": "2026-08-03T01:17:09.185913Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -217,7 +217,7 @@
       "toefl_total": null,
       "toefl_subscores": "",
       "language_of_instruction_1": "English",
-      "language_of_instruction_2": "French",
+      "language_of_instruction_2": "",
       "lang2_level": "",
       "language_other_notes": "",
       "available_areas": "",
