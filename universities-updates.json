@@ -695,7 +695,38 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "uic-exclusive-barnard-college",
+      "date": "2026-08-03",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "spring_nomination_deadline",
+          "from": "10/15",
+          "to": "09/15"
+        },
+        {
+          "field": "spring_application_deadline",
+          "from": "10/30",
+          "to": "09/15"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "uic-exclusive-the-university-of-hong-kong-faculty-of-arts",
+      "date": "2026-08-03",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "03/31",
+          "to": "04/30"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-02T19:01:58.224007+00:00"
+  "generated_at": "2026-08-03T19:24:53.017800+00:00"
 }
