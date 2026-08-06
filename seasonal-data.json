@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-05T20:08:25.174609Z",
+  "generated_at": "2026-08-06T13:07:43.611873Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
     "season_label": "Winter 2027",
     "is_live": true,
-    "seasonal_only": []
+    "seasonal_only": [
+      "Università Cattolica del Sacro Cuore"
+    ]
   },
   "programs": [
     {
