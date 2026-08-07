@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:24:08.188542Z",
+  "generated_at": "2026-08-07T02:06:39.832113Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -434,7 +434,7 @@
       "country": "Germany",
       "continent": "Europe",
       "website": "https://hic.hu-berlin.de/en/huwisu",
-      "program_dates": "TBA",
+      "program_dates": "Session1: 2027/01/04~2027/01/15\nSession2 2027/01/18~2027/01/29\nSession3: 2027/01/04~2027/01/29",
       "nomination_deadline": "TBA",
       "application_deadline": "TBA",
       "program_fees": "TBA",
