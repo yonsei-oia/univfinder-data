@@ -204,7 +204,23 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "humboldt-university-of-berlin-winter",
+      "date": "2026-08-07",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "application_deadline",
+          "from": "TBA",
+          "to": "11/15"
+        },
+        {
+          "field": "program_fees"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-07T02:08:24.312978+00:00"
+  "generated_at": "2026-08-07T02:29:59.240058+00:00"
 }

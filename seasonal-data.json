@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T02:08:24.312978Z",
+  "generated_at": "2026-08-07T02:29:59.240058Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -436,8 +436,8 @@
       "website": "https://hic.hu-berlin.de/en/huwisu",
       "program_dates": "Session1: 2027/01/04~2027/01/15\nSession2 2027/01/18~2027/01/29\nSession3: 2027/01/04~2027/01/29",
       "nomination_deadline": "TBA",
-      "application_deadline": "TBA",
-      "program_fees": "TBA",
+      "application_deadline": "11/15",
+      "program_fees": "Program fee: 160 euros\nSession 1 & 2 - Course fee(45 contact hours, 6 ECTS credits): 1,050 euros\nSession 3 - Course fee(100 contact hours, 10 ECTS credits): 1,650 euros",
       "currency": "EUR",
       "scholarship_settlement": 2000000,
       "scholarship_tuition": "등록금 반액 수준(추후 안내)\nApproximately 50% of the tuition fee (details to be announced later)",
@@ -459,7 +459,7 @@
       "academic_calendar": "",
       "housing_info": "",
       "housing_guaranteed": "No",
-      "recent_factsheet": "",
+      "recent_factsheet": "https://drive.google.com/file/d/1lVr5SNbxT74zlBJ-m6MoGIpaHrnvuf25/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "Transcripts usually arrive around February~March for Winter.",
