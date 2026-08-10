@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:31:35.965209Z",
+  "generated_at": "2026-08-10T12:54:25.041595Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -524,8 +524,8 @@
       "spring_one_semester": "Y",
       "spring_calendar_year": "N",
       "academic_system": "Semester",
-      "toefl_total": 80,
-      "toefl_subscores": "R: 18 L: 17 S: 20 W: 17",
+      "toefl_total": 77,
+      "toefl_subscores": "Revised TOEFL (from 21 Jan 2026): overall 77, with 4.0 in each section (1.0-6.0 scale)\nPrevious TOEFL: overall 80, with R 18 / L 17 / S 20 / W 17 - iBT, MyBest, and TOEFL at Home are all accepted.\nTest waiver: at least two years of an undergraduate degree taught in English in a country where English is the primary language - official confirmation from your home institution is accepted instead of a test score.\nConfirmed by Glasgow (Aug 2026); not published on their website.",
       "lang2_level": "",
       "language_other_notes": "",
       "available_areas": "* Course catalogue: https://www.gla.ac.uk/study/visiting/studyabroadexchange/studyabroadprogramme/coursecatalogue/\n* Students should read the application guidance notes and Course Selection Guide on the website carefully before selecting courses.\n* Students can apply to study at either the main campus or the Dumfries Campus. Due to the distance between the two campuses, students cannot choose courses across both campuses.\n* Students must choose specific courses and NOT general subject areas. Courses are listed on our course catalogue and students should refer to the Visiting Students Course Selection Guide when choosing. Students do not need to look at the pre-requisites on the course catalogue. These apply to degree-seeking students only.\n* They can choose courses from multiple colleges across the University, regardless of which college they have selected on their application.\n* Level 1 and 2 courses are lower-level courses that require no/little previous experience. Level 3 and 4 courses are upper-level courses that require at least two years background experience in the subject area that will be studied at Glasgow.",
@@ -546,7 +546,7 @@
       "scholarship": "",
       "notes": "의·수의·치의학 불가, 전 과목 level 5 불가, 가을 단학기생은 level 3-4 CS/수학/통계 불가; 두 캠퍼스 병행 불가; TOEFL 80.\nMedicine/Veterinary/Dentistry not open, no level-5 courses, Autumn-only students cannot take level 3-4 Computing/Maths/Stats; cannot mix campuses; TOEFL 80.",
       "transcript_info": "Transcripts usually arrive in July for spring and around March for fall.",
-      "change_note": "",
+      "change_note": "English requirement updated to the revised TOEFL scale, confirmed directly by Glasgow.",
       "hide_from_students": "N",
       "content": {
         "about_text": "The University of Glasgow is a public research university founded in 1451, making it one of the oldest universities in the English-speaking world. It is located in Glasgow, Scotland, and is a member of the Russell Group of research-intensive universities. English is the language of instruction, and the university offers a broad range of disciplines across its colleges, with a separate Dumfries Campus in addition to the main Glasgow campus.",

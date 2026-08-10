@@ -726,7 +726,25 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "university-of-glasgow",
+      "date": "2026-08-10",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_total",
+          "from": 80,
+          "to": 77
+        },
+        {
+          "field": "toefl_subscores",
+          "from": "R: 18 L: 17 S: 20 W: 17",
+          "to": "Revised TOEFL (from 21 Jan 2026): overall 77, with 4.0 in each section (1.0-6.0 scale)\nPrevious TOEFL: overall 80, with R 18 / L 17 / S 20 / W 17 - iBT, MyBest, and TOEFL at Home are all accepted.\nTest waiver: at least two years of an undergraduate degree taught in English in a country where English is the primary language - official confirmation from your home institution is accepted instead of a test score.\nConfirmed by Glasgow (Aug 2026); not published on their website."
+        }
+      ],
+      "note": "English requirement updated to the revised TOEFL scale, confirmed directly by Glasgow."
     }
   ],
-  "generated_at": "2026-08-09T18:31:35.965209+00:00"
+  "generated_at": "2026-08-10T12:54:25.041595+00:00"
 }
