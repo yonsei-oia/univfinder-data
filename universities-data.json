@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:54:25.041595Z",
+  "generated_at": "2026-08-10T18:49:29.031363Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -544,7 +544,7 @@
       "campus_lat": 55.871666,
       "campus_lng": -4.2778997,
       "scholarship": "",
-      "notes": "의·수의·치의학 불가, 전 과목 level 5 불가, 가을 단학기생은 level 3-4 CS/수학/통계 불가; 두 캠퍼스 병행 불가; TOEFL 80.\nMedicine/Veterinary/Dentistry not open, no level-5 courses, Autumn-only students cannot take level 3-4 Computing/Maths/Stats; cannot mix campuses; TOEFL 80.",
+      "notes": "의·수의·치의학 불가, 전 과목 level 5 불가, 가을 단학기생은 level 3-4 CS/수학/통계 불가; 두 캠퍼스 병행 불가; TOEFL 77.\nMedicine/Veterinary/Dentistry not open, no level-5 courses, Autumn-only students cannot take level 3-4 Computing/Maths/Stats; cannot mix campuses; TOEFL 77.",
       "transcript_info": "Transcripts usually arrive in July for spring and around March for fall.",
       "change_note": "English requirement updated to the revised TOEFL scale, confirmed directly by Glasgow.",
       "hide_from_students": "N",
@@ -4672,7 +4672,7 @@
       "fall_one_semester": "N",
       "fall_calendar_year": "Y",
       "spring_one_semester": "N",
-      "spring_calendar_year": "Y",
+      "spring_calendar_year": "N",
       "academic_system": "Other",
       "toefl_total": 92,
       "toefl_subscores": "No component under 23",

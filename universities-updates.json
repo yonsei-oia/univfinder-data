@@ -744,7 +744,20 @@
         }
       ],
       "note": "English requirement updated to the revised TOEFL scale, confirmed directly by Glasgow."
+    },
+    {
+      "slug": "durham-university",
+      "date": "2026-08-10",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "spring_calendar_year",
+          "from": "Y",
+          "to": "N"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-10T12:54:25.041595+00:00"
+  "generated_at": "2026-08-10T18:49:29.031363+00:00"
 }
