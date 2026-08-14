@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:55:14.198736Z",
+  "generated_at": "2026-08-14T18:45:35.066907Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -3632,7 +3632,7 @@
       "academic_calendar": "https://www.abdn.ac.uk/students/academic-life/semester-dates/academic-calendar/",
       "housing_info": "https://www.abdn.ac.uk/accommodation/",
       "housing_guaranteed": "Yes",
-      "recent_factsheet": "https://storage.tally.so/private/International-Exchange-and-Study-Abroad-Information-Sheet-2025-2026.pdf?id=1G2rYb&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFHMnJZYiIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc2NDI1ODI5MH0.TGfeNzmWyyDhcaFwUJIIPfcLTyA3s-4AEP0WwTEU_Uw&signature=6adf6c5b11bdd8fdc94ec95e9c6040cae1e12c5bafcfb25f785a143be8ebef97",
+      "recent_factsheet": "https://www.abdn.ac.uk/media/site/study/documents/European-Exchange-Information-Sheet-2026-2027---Compressed.pdf",
       "additional_link": "https://drive.google.com/drive/folders/1ZNfOJpz18WQ6YfVFsazNR6Xm76nOMp83?usp=drive_link",
       "campus_map_url": "",
       "campus_lat": 57.1645542,
@@ -18131,7 +18131,7 @@
       "campus_lng": -157.8186932,
       "scholarship": "",
       "notes": "",
-      "transcript_info": "Transcripts usually arrive in July for spring and in February for fall.",
+      "transcript_info": "UH Manoa staff are not able to access any official transcripts, so all transcript orders must be made through the online ordering system: https://manoa.hawaii.edu/registrar/student-records/ordering-transcript/",
       "change_note": "",
       "hide_from_students": "N",
       "content": {
