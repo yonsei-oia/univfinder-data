@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:16:11.650021Z",
+  "generated_at": "2026-08-18T07:21:39.072242Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -345,7 +345,7 @@
       "program_dates": "2027/01/04~2027/01/22",
       "nomination_deadline": "9/30",
       "application_deadline": "11/23",
-      "program_fees": "425 EUR program fee(350 EUR with the early registration discount)\n +\n 1,475 EUR tuition fee\n +\n housing(2027 fees still tbc)",
+      "program_fees": "425 EUR program fee(350 EUR with the early registration discount)\n +\n 1,475 EUR tuition fee\n +\n housing(520~1,080 EUR depending on the option)",
       "currency": "EUR",
       "scholarship_settlement": 2000000,
       "scholarship_tuition": "등록금 반액 수준(추후 안내)\nApproximately 50% of the tuition fee (details to be announced later)",

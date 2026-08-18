@@ -242,7 +242,18 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "free-university-of-berlin-winter",
+      "date": "2026-08-18",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "program_fees"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-18T07:16:11.650021+00:00"
+  "generated_at": "2026-08-18T07:21:39.072242+00:00"
 }
