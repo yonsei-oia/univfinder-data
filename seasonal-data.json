@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:03:32.435671Z",
+  "generated_at": "2026-08-18T07:12:48.014519Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -253,7 +253,7 @@
       "program_dates": "2027/02/14~2027/02/27",
       "nomination_deadline": "TBA",
       "application_deadline": "TBA",
-      "program_fees": "1500€\r\n- Accommodation for 13 nights in a hotel, with a small kitchen and a shared room with separate beds (maximum 2 or 3 students/room)\r\n- Registration and administrative fees\r\n- Course material\r\n- Field trip to the Arcachon Bay or the village of St Emilion\r\n- Visits to museums\r\n- Access to workshops\r\n- Unlimited transportation card in Bordeaux for two weeks",
+      "program_fees": "1,500€\n- Accommodation for 13 nights in a hotel, with a small kitchen and a shared room with separate beds (maximum 2 or 3 students/room)\n- Registration and administrative fees\n- Course material\n- Field trip to the Arcachon Bay or the village of St Emilion\n- Visits to museums\n- Access to workshops\n- Unlimited transportation card in Bordeaux for two weeks",
       "currency": "EUR",
       "scholarship_settlement": 2000000,
       "scholarship_tuition": "",
