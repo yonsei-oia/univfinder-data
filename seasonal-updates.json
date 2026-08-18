@@ -220,7 +220,18 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "universite-bordeaux-montaigne-winter",
+      "date": "2026-08-18",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "program_fees"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-17T19:07:38.530076+00:00"
+  "generated_at": "2026-08-18T07:03:32.435671+00:00"
 }
