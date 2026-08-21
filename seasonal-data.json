@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:33:09.746201Z",
+  "generated_at": "2026-08-21T01:40:16.187211Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -379,8 +379,8 @@
       "campus_lng": null
     },
     {
-      "slug": "universita-cattolica-del-sacro-cuore-winter",
-      "university_name": "Università Cattolica del Sacro Cuore",
+      "slug": "catholic-university-of-the-sacred-heart-catholic-university-of-milan-winter",
+      "university_name": "Catholic University of the Sacred Heart(Catholic University of Milan)",
       "program_name": "Winter Programmes 2026-2027",
       "program_type": "VSP",
       "summer_open": false,
