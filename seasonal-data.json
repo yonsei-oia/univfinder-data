@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:10:27.010792Z",
+  "generated_at": "2026-08-21T01:33:09.746201Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -233,7 +233,7 @@
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "",
-      "notes": "[The number of available spots updated]",
+      "notes": "",
       "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aalto-yliopiston%20logo.svg",
       "cover_image_credit": "Wikimedia Commons",
       "cover_image_kind": "logo",
