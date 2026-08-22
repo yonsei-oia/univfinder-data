@@ -1,0 +1,86 @@
+Copyright (c) 2026 Yonsei University, Office of International Affairs.
+All rights reserved.
+
+This repository is NOT open source. No license to copy, redistribute, or reuse
+the data is granted. The contents are published solely to allow the official
+Yonsei OIA UnivFinder student dashboard to load them at runtime.
+
+Full terms of use: https://oia.yonsei.ac.kr/univfinder  ("이용안내 / Terms of Use")
+Contact: abroad@yonsei.ac.kr
+
+--------------------------------------------------------------------------------
+ENGLISH
+--------------------------------------------------------------------------------
+
+1. OWNERSHIP
+   The partner university data in this repository is collected, compiled,
+   verified, and updated each semester by the Office of International Affairs,
+   Yonsei University, on the basis of exchange agreements and official materials
+   provided by partner institutions. The Office of International Affairs holds
+   the rights of the database producer in this compilation.
+
+2. PROHIBITED WITHOUT PRIOR WRITTEN PERMISSION
+   a. Reproduction, storage, transmission, or distribution of all or a
+      substantial part of this database.
+   b. Automated collection by crawlers, scrapers, or automated scripts.
+   c. Creation or publication of any separate service, site, application, or
+      file built upon this data.
+   d. Collection, storage, or use of this data for the training, fine-tuning,
+      or retrieval-augmented generation of artificial intelligence models.
+
+3. TDM RESERVATION
+   The rightsholder expressly reserves its rights against text and data mining,
+   including for the development or training of AI systems. This reservation is
+   made in machine-readable form here and in the robots.txt and X-Robots-Tag
+   headers of https://oia.yonsei.ac.kr/univfinder.
+
+4. CITATION
+   Citation or secondary use requires prior enquiry to the Office of
+   International Affairs and the following attribution:
+
+       데이터 출처: 연세대학교 국제처 OIA UnivFinder
+       (https://oia.yonsei.ac.kr/univfinder)
+
+5. NO WARRANTY
+   Partner university information (quotas, eligibility and language
+   requirements, deadlines) changes each semester. This data is provided for
+   the operation of the official dashboard and carries no warranty of accuracy
+   or currency. Final verification must be based on official announcements of
+   the Office of International Affairs and on information published by the host
+   institution. The Office of International Affairs accepts no responsibility
+   for any consequence arising from unofficial derivative materials.
+
+--------------------------------------------------------------------------------
+한국어
+--------------------------------------------------------------------------------
+
+1. 권리 귀속
+   본 저장소의 파견교 데이터는 연세대학교 국제처가 파트너 대학과의 협정 및 공식
+   자료를 바탕으로 직접 수집·구성·검증하고 매 학기 갱신한 자료입니다. 본 편집물에
+   대한 데이터베이스제작자의 권리는 연세대학교 국제처에 있습니다.
+
+2. 사전 서면 허가 없이 금지되는 행위
+   가. 본 데이터베이스의 전부 또는 상당한 부분의 복제·저장·전송·배포
+   나. 크롤러, 스크래퍼, 자동화 스크립트 등을 이용한 자동 수집
+   다. 본 데이터를 이용한 별도의 서비스·사이트·애플리케이션·파일의 제작 및 공개
+   라. 인공지능 모델의 학습, 미세조정, 검색증강생성(RAG)을 위한 수집·저장·이용
+
+3. AI 학습 목적 이용에 대한 명시적 반대
+   권리자는 인공지능 시스템의 개발·학습을 포함한 텍스트 및 데이터 마이닝 목적의
+   이용에 대하여 명시적으로 반대 의사를 표시합니다. 본 문서와 함께
+   https://oia.yonsei.ac.kr/univfinder 의 robots.txt 및 X-Robots-Tag 헤더로도
+   동일한 의사를 기계가 판독할 수 있는 형태로 표시하고 있습니다.
+
+4. 인용 및 2차 활용
+   인용하거나 2차적으로 활용하시려는 경우 사전에 국제처로 문의하시고 위 4항의
+   출처 표기를 포함하여 주시기 바랍니다.
+
+5. 정확성에 대한 면책
+   파견교 정보(모집 정원, 지원·어학 요건, 마감일 등)는 매 학기 변경됩니다. 본
+   데이터는 공식 대시보드 운영을 위해 제공되는 것으로 정확성이나 최신성을 보증하지
+   않습니다. 최종 확인은 국제처 공식 공지 및 파견교 게시 내용을 기준으로 하여
+   주시기 바랍니다. 국제처가 제공하지 않은 비공식 2차 가공물의 정보 오류로 인하여
+   발생한 결과에 대하여 국제처는 책임지지 않습니다.
+
+--------------------------------------------------------------------------------
+시행일 Effective date: 2026-08-01
