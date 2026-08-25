@@ -260,7 +260,33 @@
       "kind": "added",
       "changes": [],
       "note": null
+    },
+    {
+      "slug": "universite-bordeaux-montaigne-winter",
+      "date": "2026-08-25",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "application_deadline",
+          "from": "TBA",
+          "to": "10/04"
+        },
+        {
+          "field": "nomination_deadline",
+          "from": "TBA",
+          "to": "09/27"
+        },
+        {
+          "field": "lang2_level",
+          "from": "B1",
+          "to": "B2"
+        },
+        {
+          "field": "program_fees"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-24T19:09:57.162288+00:00"
+  "generated_at": "2026-08-25T00:24:04.063069+00:00"
 }
