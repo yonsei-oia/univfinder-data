@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T00:26:22.403661Z",
+  "generated_at": "2026-08-25T02:29:40.370682Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -166,7 +166,7 @@
       "currency": "EUR",
       "scholarship_settlement": 2000000,
       "scholarship_tuition": "",
-      "quota": 0,
+      "quota": 5,
       "quota_unit": "person",
       "accepts_undergrad": "Y",
       "accepts_grad": "N",
@@ -188,7 +188,7 @@
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "Transcripts usually arrive around February for Winter.",
-      "notes": "The number of available spots will be announced shortly",
+      "notes": "[Update] The number of available spots updated",
       "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/KU%20Leuven%20logo.svg",
       "cover_image_credit": "Wikimedia Commons",
       "cover_image_kind": "logo",

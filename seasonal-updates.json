@@ -299,7 +299,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "katholieke-universiteit-leuven-winter",
+      "date": "2026-08-25",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "quota",
+          "from": 0,
+          "to": 5
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-25T00:26:22.403661+00:00"
+  "generated_at": "2026-08-25T02:29:40.370682+00:00"
 }
