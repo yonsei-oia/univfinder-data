@@ -286,7 +286,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "katholieke-universiteit-leuven-winter",
+      "date": "2026-08-25",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "nomination_deadline",
+          "from": "TBA",
+          "to": "10/01"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-25T00:24:04.063069+00:00"
+  "generated_at": "2026-08-25T00:26:22.403661+00:00"
 }

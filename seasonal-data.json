@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T00:24:04.063069Z",
+  "generated_at": "2026-08-25T00:26:22.403661Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -160,7 +160,7 @@
       "continent": "Europe",
       "website": "https://www.kuleuven.be/english/summer-schools/Global-Challenges-for-Our-Sustainable-Future",
       "program_dates": "2027/01/11~2027/01/29",
-      "nomination_deadline": "TBA",
+      "nomination_deadline": "10/01",
       "application_deadline": "11/01",
       "program_fees": "Registration fee for exchange students: €750\n*include tuition, social and cultural events and reading materials.",
       "currency": "EUR",
