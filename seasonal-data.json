@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:08:37.558087Z",
+  "generated_at": "2026-08-26T00:41:01.558723Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -254,9 +254,9 @@
       "program_dates": "2027/02/14~2027/02/27",
       "nomination_deadline": "09/27",
       "application_deadline": "10/04",
-      "program_fees": "900€ (Special rate for Yonsei)\n- Accommodation for 13 nights in a hotel, with a small kitchen and a shared room with separate beds (maximum 2 or 3 students/room)\n- Registration and administrative fees\n- Course material\n- Field trip to the Arcachon Bay or the village of St Emilion\n- Visits to museums\n- Access to workshops\n- Unlimited transportation card in Bordeaux for two weeks",
+      "program_fees": "",
       "currency": "EUR",
-      "scholarship_settlement": 2000000,
+      "scholarship_settlement": null,
       "scholarship_tuition": "",
       "quota": 0,
       "quota_unit": "person",
@@ -280,7 +280,7 @@
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "",
-      "notes": "The number of available spots will be announced shortly",
+      "notes": "[Update] Cancelled due to internal circumstances at the university",
       "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9%20Bordeaux%20Montaigne%20Logo.svg",
       "cover_image_credit": "Wikimedia Commons",
       "cover_image_kind": "logo",

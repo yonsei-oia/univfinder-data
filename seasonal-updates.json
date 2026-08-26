@@ -312,7 +312,23 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "universite-bordeaux-montaigne-winter",
+      "date": "2026-08-26",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "scholarship_settlement",
+          "from": 2000000,
+          "to": null
+        },
+        {
+          "field": "program_fees"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-08-25T19:08:37.558087+00:00"
+  "generated_at": "2026-08-26T00:41:01.558723+00:00"
 }
