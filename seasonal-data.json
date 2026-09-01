@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:58:19.941081Z",
+  "generated_at": "2026-09-01T00:42:19.911539Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -229,7 +229,7 @@
       "admission_notes": "Took a few business courses in English",
       "academic_calendar": "",
       "housing_info": "",
-      "housing_guaranteed": "Yes",
+      "housing_guaranteed": "Partial",
       "recent_factsheet": "https://drive.google.com/file/d/1WsxmShNbMqBTvgbmT8DcJE4vhQHyHVJt/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
