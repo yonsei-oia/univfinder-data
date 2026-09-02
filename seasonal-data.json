@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:13:06.192925Z",
+  "generated_at": "2026-09-02T04:47:02.182417Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -120,7 +120,7 @@
       "currency": "JPY",
       "scholarship_settlement": 1000000,
       "scholarship_tuition": "",
-      "quota": 0,
+      "quota": 4,
       "quota_unit": "person",
       "accepts_undergrad": "Y",
       "accepts_grad": "N",
@@ -142,7 +142,7 @@
       "additional_link": "",
       "campus_map_url": "",
       "transcript_info": "Transcripts usually arrive around February~March for Winter.",
-      "notes": "The number of available spots will be announced shortly",
+      "notes": "[Update] The number of available spots updated",
       "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophia%20University%20Yotsuya%20Campus%20%286459805535%29.jpg",
       "cover_image_credit": "Wikimedia Commons",
       "cover_image_kind": "photo",
