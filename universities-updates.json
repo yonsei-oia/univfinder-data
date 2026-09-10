@@ -757,7 +757,81 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "uic-exclusive-amherst-college",
+      "date": "2026-09-10",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_nomination_deadline",
+          "from": "03/15",
+          "to": "04/01"
+        },
+        {
+          "field": "fall_application_deadline",
+          "from": "03/30",
+          "to": "04/01"
+        },
+        {
+          "field": "spring_nomination_deadline",
+          "from": "10/15",
+          "to": "10/01"
+        },
+        {
+          "field": "spring_application_deadline",
+          "from": "10/30",
+          "to": "10/01"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "aarhus-university",
+      "date": "2026-09-10",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_subscores",
+          "from": "Most faculties do not have an English language requirement. Read more here: https://international.au.dk/education/admissions/exchange/admission-to-aarhus-university/language-requirements",
+          "to": "Most faculties do not have an English language requirement. Read more here: \nhttps://international.au.dk/education/admissions/exchange/admission-to-aarhus-university/language-requirements"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "practical-courses-e-g-medicine-pharmacy-dental-sciences-are-not-open-to-exchange-students-courses-offered-by-kyushu-university-business-school-qbs-are-available-only-to-exchange-students-officially-enrolled-in-qbs-undergraduate-students-are-not-permitted-to-enroll-in-graduate-level-courses",
+      "date": "2026-09-10",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "national-cheng-kung-university",
+      "date": "2026-09-10",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "language_other_notes",
+          "from": "Please check department requirements: https://oia.ncku.edu.tw/var/file/32/1032/img/4576/113DepartmentrequirementsAY2024-25-ENG.pdf",
+          "to": "Please check department requirements: https://oia.ncku.edu.tw/var/file/32/1032/img/4576/NCKUDepartmentrequirementsAY2627(20260527).pdf"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "the-university-of-hong-kong",
+      "date": "2026-09-10",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "spring_calendar_year",
+          "from": "Y",
+          "to": "N"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-09-10T20:20:16.165183+00:00"
+  "generated_at": "2026-09-10T23:04:29.089161+00:00"
 }
