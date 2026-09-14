@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:02:12.947834Z",
+  "generated_at": "2026-09-14T00:34:47.688257Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -242,12 +242,12 @@
       "campus_lng": 24.8236392
     },
     {
-      "slug": "universite-bordeaux-montaigne-winter",
+      "slug": "universite-bordeaux-montaigne",
       "university_name": "Université Bordeaux Montaigne",
       "program_name": "Bordeaux Montaigne University International Winter School",
       "program_type": "ESP",
       "summer_open": false,
-      "winter_open": true,
+      "winter_open": false,
       "country": "France",
       "continent": "Europe",
       "website": "https://www.u-bordeaux-montaigne.fr/en/study/application/international-winter-school.html",

@@ -341,7 +341,14 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "universite-bordeaux-montaigne",
+      "date": "2026-09-14",
+      "kind": "added",
+      "changes": [],
+      "note": null
     }
   ],
-  "generated_at": "2026-09-13T21:02:12.947834+00:00"
+  "generated_at": "2026-09-14T00:34:47.688257+00:00"
 }
