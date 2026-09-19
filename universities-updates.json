@@ -877,7 +877,53 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "kyushu-university",
+      "date": "2026-09-19",
+      "kind": "added",
+      "changes": [],
+      "note": null
+    },
+    {
+      "slug": "university-of-maryland",
+      "date": "2026-09-19",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "toefl_subscores",
+          "from": "minimum sectional scores of 22",
+          "to": "New TOEFL Scoring System: UMD will accept both the old scoring system (0-120) as well as the new (1-6) scoring system. Please see below for the minimum required scores: Old TOEFL score: 90 with minimum of 22 in each section) / New TOEFL score: minimum 4.5 (Please note that UMD does not accept MyBest scores.)"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "mcgill-university-faculty-of-management",
+      "date": "2026-09-19",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "2/1-4/1",
+          "to": "04/01"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "mcgill-university-all-other-faculties",
+      "date": "2026-09-19",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "fall_application_deadline",
+          "from": "2/1-4/1",
+          "to": "04/01"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-09-18T20:16:32.989745+00:00"
+  "generated_at": "2026-09-19T00:50:02.845090+00:00"
 }
