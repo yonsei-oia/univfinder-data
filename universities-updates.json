@@ -923,7 +923,43 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "suffolk-university",
+      "date": "2026-09-27",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "spring_nomination_deadline",
+          "from": "10/15",
+          "to": "09/25"
+        },
+        {
+          "field": "spring_application_deadline",
+          "from": "10/15",
+          "to": "09/25"
+        }
+      ],
+      "note": null
+    },
+    {
+      "slug": "george-washington-university",
+      "date": "2026-09-27",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "spring_nomination_deadline",
+          "from": "09/30",
+          "to": "09/14"
+        },
+        {
+          "field": "spring_application_deadline",
+          "from": "10/31",
+          "to": "10/15"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-09-27T06:04:38.870248+00:00"
+  "generated_at": "2026-09-27T12:50:38.568630+00:00"
 }
