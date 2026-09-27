@@ -14,7 +14,7 @@ Public exchange university data for student dashboard. Mirrored from yonsei-oia/
 > 사전 허가 없는 복제·재배포·자동 수집 및 AI 학습 목적의 이용을 금지합니다.
 
 - Terms of use: <https://oia.yonsei.ac.kr/univfinder> → 이용안내 / Terms of Use
-- Contact: abroad@yonsei.ac.kr
+- Contact: ysoia@yonsei.ac.kr
 
 ## Attribution
 
