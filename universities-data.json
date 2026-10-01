@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:46:42.018776Z",
+  "generated_at": "2026-10-01T15:16:39.164616Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -20105,7 +20105,7 @@
       "academic_calendar": "https://registrar.gatech.edu/calendar",
       "housing_info": "https://housing.gatech.edu/",
       "housing_guaranteed": "",
-      "recent_factsheet": "",
+      "recent_factsheet": "https://drive.google.com/file/d/1dekkFErWI2ZEnFC50xBrPmJAcmUIiF2R/view?usp=drivesdk",
       "additional_link": "",
       "campus_map_url": "",
       "campus_lat": 33.7760948,
@@ -21358,7 +21358,7 @@
       "academic_calendar": "https://calendar.ucalgary.ca/",
       "housing_info": "http://www.ucalgary.ca/residence",
       "housing_guaranteed": "",
-      "recent_factsheet": "",
+      "recent_factsheet": "https://www.ucalgary.ca/sites/default/files/teams/214/26-27-OSLE-GL-fact-sheet.pdf",
       "additional_link": "",
       "campus_map_url": "",
       "campus_lat": 51.075054,
