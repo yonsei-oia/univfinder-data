@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:43:12.199500Z",
+  "generated_at": "2026-10-03T20:28:26.524813Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -20740,16 +20740,28 @@
         "why_yonsei": "ASU teaches in English and offers a very broad course catalogue, so exchange students have wide flexibility in building their study plan, with most exchange students based at or near the Tempe campus where the largest number of classes is offered. International exchange students must obtain a J-1 Exchange Visitor visa, and health insurance is mandatory and cannot be waived. Applicants should review the Incoming Exchange Program Fact Sheet for course availability and restrictions before applying.",
         "campus_location": "ASU's largest campus is in Tempe, Arizona, in the Phoenix metropolitan area, where most exchange students live and take courses. The university also operates additional campuses across the Phoenix area.",
         "accommodation": "",
-        "student_tips": "",
-        "academic_requirements": "",
+        "student_tips": "Course registration (spring): registration usually opens in mid-to-late October; check your exact registration time in the \"My Schedule\" section of MyASU in early October. Register for a full course load as soon as your time opens and prepare back-up courses, as enrollment is not guaranteed. If you get a prerequisite or consent error, request an override from the college offering the course (shown under \"Offered By\"); the Fulton Schools of Engineering often approve overrides only about two weeks before classes start. When changing classes, use \"Swap\" rather than \"Drop\" so you do not lose your seat. Half-semester courses (Session A: January–March, Session B: March–May) cover a full course in 7.5 weeks, so the workload is heavier. Courses on campuses other than Tempe may need a shuttle ride of more than an hour.",
+        "academic_requirements": "Exchange students must stay enrolled full-time for visa status: undergraduates at least 12 credit hours (at least 9 in person), graduate students at least 9 (at least 6 in person). Only 3 credits of online courses count toward full-time enrollment, and ASU Online courses are not open to exchange students. MMR immunization documentation must be submitted before enrollment.",
         "useful_links": [
           {
-            "label": "ASU Global Education (International)",
-            "url": "https://goglobal.asu.edu/international"
+            "label": "https://catalog.apps.asu.edu/catalog/classes",
+            "url": "https://catalog.apps.asu.edu/catalog/classes"
           },
           {
-            "label": "International Exchange Student Contacts",
-            "url": "https://goglobal.asu.edu/international/contacts"
+            "label": "https://goglobal.asu.edu/international/academic-info",
+            "url": "https://goglobal.asu.edu/international/academic-info"
+          },
+          {
+            "label": "https://registrar.asu.edu/academic-calendar",
+            "url": "https://registrar.asu.edu/academic-calendar"
+          },
+          {
+            "label": "https://housing.asu.edu/how-apply-university-housing",
+            "url": "https://housing.asu.edu/how-apply-university-housing"
+          },
+          {
+            "label": "https://offcampushousing.asu.edu/listing",
+            "url": "https://offcampushousing.asu.edu/listing"
           }
         ],
         "video_links": [],
