@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:46:51.115706Z",
+  "generated_at": "2026-10-05T23:35:34.388598Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -20723,8 +20723,8 @@
       "spring_nomination_deadline": "08/01",
       "spring_application_deadline": "09/01",
       "academic_calendar": "https://studyabroad.asu.edu/_customtags/ct_FileRetrieve.cfm?File_ID=060575767B733F02720670060703721C010D05011A017007721C027770747573010505767103047B0271",
-      "housing_info": "https://goglobal.asu.edu/international/housing",
-      "housing_guaranteed": "",
+      "housing_info": "https://goglobal.asu.edu/international/housing — On-campus housing is limited and not guaranteed; exchange students are usually placed in upper-division (3rd/4th-year) housing. Submitting the ASU Housing application is a binding contract and requires a non-refundable application fee (US$225; amounts may change each year). For spring, applications usually open in late October and close in mid-November, and placement notices may arrive as late as December. Traditional residence halls require a meal plan. Spring-only students who cancel more than 14 days after their placement notice or after check-in may be charged a late fee (US$550), and releases from mid-January onward carry a cancellation fee (US$750). Never hold an ASU housing contract and an off-campus lease at the same time. Off-campus listings: https://offcampushousing.asu.edu/listing",
+      "housing_guaranteed": "No",
       "recent_factsheet": "",
       "additional_link": "https://studyabroad.asu.edu/_customtags/ct_FileRetrieve.cfm?File_ID=213572",
       "campus_map_url": "",
