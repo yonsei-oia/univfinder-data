@@ -959,7 +959,20 @@
         }
       ],
       "note": null
+    },
+    {
+      "slug": "baylor-university",
+      "date": "2026-10-11",
+      "kind": "changed",
+      "changes": [
+        {
+          "field": "spring_application_deadline",
+          "from": "10/31",
+          "to": "11/01"
+        }
+      ],
+      "note": null
     }
   ],
-  "generated_at": "2026-10-10T21:00:38.242762+00:00"
+  "generated_at": "2026-10-11T14:06:13.780334+00:00"
 }
