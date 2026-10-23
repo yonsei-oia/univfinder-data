@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:05:36.650724Z",
+  "generated_at": "2026-10-23T20:52:44.598256Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -5090,8 +5090,8 @@
       "recent_factsheet": "https://storage.tally.so/private/UNIGE_Info_sheet_26-27-Monde.pdf?id=bK7P42&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJLN1A0MiIsImZvcm1JZCI6ImRXcUJNciIsImlhdCI6MTc2NjM4MTc1N30.g7vQwjf7tfKMj9YTCCGH5qThr0b1z5L5UwNFm6Fe0Xc&signature=210e545aa394d6964c5a99186d41a87ce1153646383b030f26f1b5e2d40da507",
       "additional_link": "https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students/4-preparing-your-exchange/housing/",
       "campus_map_url": "",
-      "campus_lat": null,
-      "campus_lng": null,
+      "campus_lat": 46.1927166,
+      "campus_lng": 6.1489407,
       "scholarship": "",
       "notes": "최대 2개 faculty; 석사 과목은 대학원생만; 경영경제·법·영문학은 홈대 해당 전공자만; 불어 과목 B2.\nMax two faculties; master courses for graduate students only; Economics/Law/English only for home-university majors; French B2.",
       "transcript_info": "Transcripts usually arrive in September for spring and in February for fall.",
