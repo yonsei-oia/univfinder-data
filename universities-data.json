@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:46:48.179905Z",
+  "generated_at": "2026-11-04T23:04:59.470373Z",
   "source": "notion",
   "schema_version": 1,
   "universities": [
@@ -10033,8 +10033,8 @@
       "recent_factsheet": "https://drive.google.com/file/d/14Vp5ahdnmoIoZP4EXjT5OxG-hFhQWtU4/view?usp=drivesdk",
       "additional_link": "https://www.psbedu.paris/en/programs/exchange-program#presentation",
       "campus_map_url": "",
-      "campus_lat": null,
-      "campus_lng": null,
+      "campus_lat": 48.8398338,
+      "campus_lng": 2.3478364,
       "scholarship": "",
       "notes": "경영·경제 최소 1년 수학 이력 필요; 불어 과목은 프랑스어 B2.\nAt least one year of prior study in business/economics required; French B2 for French-taught courses.",
       "transcript_info": "Transcripts usually arrive around May for spring and in March for fall.",
