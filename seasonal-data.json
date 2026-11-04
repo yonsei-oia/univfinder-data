@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T23:34:37.018919Z",
+  "generated_at": "2026-11-04T23:51:30.483595Z",
   "schema_version": 1,
   "config": {
     "season_code": "27W",
@@ -330,8 +330,8 @@
       "cover_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20School%20of%20Business%20%28PSB%29%20logo.svg",
       "cover_image_credit": "Wikimedia Commons",
       "cover_image_kind": "logo",
-      "campus_lat": null,
-      "campus_lng": null
+      "campus_lat": 48.8398338,
+      "campus_lng": 2.3478364
     },
     {
       "slug": "free-university-of-berlin-winter",
